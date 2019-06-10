@@ -1,0 +1,3368 @@
+country,year,month,pathogen,positive.ages.0.23,positive.ages.24.59
+The Gambia,2007,12,all MSD,53.46853,8.666667
+The Gambia,2008,1,all MSD,102.5769,18.73333
+The Gambia,2008,2,all MSD,62.45455,18.6
+The Gambia,2008,3,all MSD,59.7,17.2
+The Gambia,2008,4,all MSD,49.4,11.8
+The Gambia,2008,5,all MSD,57.07308,24
+The Gambia,2008,6,all MSD,118.6906,8
+The Gambia,2008,7,all MSD,80.19192,15.5
+The Gambia,2008,8,all MSD,79.44444,17.5
+The Gambia,2008,9,all MSD,75,10
+The Gambia,2008,10,all MSD,39.71429,12
+The Gambia,2008,11,all MSD,22.03571,11.66667
+The Gambia,2008,12,all MSD,33.01786,6.333333
+The Gambia,2009,1,all MSD,62.23214,5
+The Gambia,2009,2,all MSD,111,16
+The Gambia,2009,3,all MSD,46.81731,12
+The Gambia,2009,4,all MSD,45.68269,4
+The Gambia,2009,5,all MSD,28.5,6
+The Gambia,2009,6,all MSD,37.33333,6
+The Gambia,2009,7,all MSD,57,9
+The Gambia,2009,8,all MSD,44.66667,4
+The Gambia,2009,9,all MSD,24.6,6
+The Gambia,2009,10,all MSD,39.04286,6
+The Gambia,2009,11,all MSD,22.35714,6
+The Gambia,2009,12,all MSD,18,2
+The Gambia,2010,1,all MSD,55,7
+The Gambia,2010,2,all MSD,54,8
+The Gambia,2010,3,all MSD,12,3
+The Gambia,2010,4,all MSD,18,3
+The Gambia,2010,5,all MSD,20,1
+The Gambia,2010,6,all MSD,38.25,13
+The Gambia,2010,7,all MSD,47.75,8
+The Gambia,2010,8,all MSD,44,7
+The Gambia,2010,9,all MSD,13,3
+The Gambia,2010,10,all MSD,6,0
+The Gambia,2010,11,all MSD,5.166667,0
+The Gambia,2010,12,all MSD,12.83333,2
+The Gambia,2007,12,Aeromonas,0,0
+The Gambia,2008,1,Aeromonas,0,0
+The Gambia,2008,2,Aeromonas,0,0
+The Gambia,2008,3,Aeromonas,0,0
+The Gambia,2008,4,Aeromonas,0,0
+The Gambia,2008,5,Aeromonas,0,0
+The Gambia,2008,6,Aeromonas,0,0
+The Gambia,2008,7,Aeromonas,0,0
+The Gambia,2008,8,Aeromonas,0,0
+The Gambia,2008,9,Aeromonas,0,0
+The Gambia,2008,10,Aeromonas,0,0
+The Gambia,2008,11,Aeromonas,0,0
+The Gambia,2008,12,Aeromonas,0,0
+The Gambia,2009,1,Aeromonas,0,0
+The Gambia,2009,2,Aeromonas,0,0
+The Gambia,2009,3,Aeromonas,0,0
+The Gambia,2009,4,Aeromonas,0,0
+The Gambia,2009,5,Aeromonas,0,0
+The Gambia,2009,6,Aeromonas,0,0
+The Gambia,2009,7,Aeromonas,0,0
+The Gambia,2009,8,Aeromonas,0,0
+The Gambia,2009,9,Aeromonas,0,0
+The Gambia,2009,10,Aeromonas,0,0
+The Gambia,2009,11,Aeromonas,0,0
+The Gambia,2009,12,Aeromonas,0,0
+The Gambia,2010,1,Aeromonas,0,0
+The Gambia,2010,2,Aeromonas,0,0
+The Gambia,2010,3,Aeromonas,0,0
+The Gambia,2010,4,Aeromonas,0,0
+The Gambia,2010,5,Aeromonas,0,0
+The Gambia,2010,6,Aeromonas,0,0
+The Gambia,2010,7,Aeromonas,0,0
+The Gambia,2010,8,Aeromonas,0,0
+The Gambia,2010,9,Aeromonas,0,0
+The Gambia,2010,10,Aeromonas,0,0
+The Gambia,2010,11,Aeromonas,0,0
+The Gambia,2010,12,Aeromonas,0,0
+The Gambia,2007,12,C coli or jejuni,0,0
+The Gambia,2008,1,C coli or jejuni,0,0
+The Gambia,2008,2,C coli or jejuni,3.4,0
+The Gambia,2008,3,C coli or jejuni,4.958333,0
+The Gambia,2008,4,C coli or jejuni,0,0
+The Gambia,2008,5,C coli or jejuni,0,0
+The Gambia,2008,6,C coli or jejuni,2.25,0
+The Gambia,2008,7,C coli or jejuni,0,0
+The Gambia,2008,8,C coli or jejuni,0,0
+The Gambia,2008,9,C coli or jejuni,4.571429,5
+The Gambia,2008,10,C coli or jejuni,4,3
+The Gambia,2008,11,C coli or jejuni,1.333333,0
+The Gambia,2008,12,C coli or jejuni,2.553571,0
+The Gambia,2009,1,C coli or jejuni,0,0
+The Gambia,2009,2,C coli or jejuni,0,0
+The Gambia,2009,3,C coli or jejuni,2,0
+The Gambia,2009,4,C coli or jejuni,1.333333,0
+The Gambia,2009,5,C coli or jejuni,5.5,0
+The Gambia,2009,6,C coli or jejuni,4,0
+The Gambia,2009,7,C coli or jejuni,3.583333,0
+The Gambia,2009,8,C coli or jejuni,0,0
+The Gambia,2009,9,C coli or jejuni,1.8,0
+The Gambia,2009,10,C coli or jejuni,3.1,0
+The Gambia,2009,11,C coli or jejuni,3.785714,0
+The Gambia,2009,12,C coli or jejuni,0,0
+The Gambia,2010,1,C coli or jejuni,4.250874,0
+The Gambia,2010,2,C coli or jejuni,0,0
+The Gambia,2010,3,C coli or jejuni,2,0
+The Gambia,2010,4,C coli or jejuni,1,0
+The Gambia,2010,5,C coli or jejuni,0,0
+The Gambia,2010,6,C coli or jejuni,4.7,0
+The Gambia,2010,7,C coli or jejuni,4.75,0
+The Gambia,2010,8,C coli or jejuni,0,0
+The Gambia,2010,9,C coli or jejuni,0,0
+The Gambia,2010,10,C coli or jejuni,0,0
+The Gambia,2010,11,C coli or jejuni,0,0
+The Gambia,2010,12,C coli or jejuni,0,0
+The Gambia,2007,12,Shigella,6.020202,1.75
+The Gambia,2008,1,Shigella,0,0
+The Gambia,2008,2,Shigella,7.151515,5
+The Gambia,2008,3,Shigella,20.75,2
+The Gambia,2008,4,Shigella,6.5,2.2
+The Gambia,2008,5,Shigella,12.25055,0
+The Gambia,2008,6,Shigella,3.5,0
+The Gambia,2008,7,Shigella,17.56277,2.5
+The Gambia,2008,8,Shigella,4,0
+The Gambia,2008,9,Shigella,10.53333,0
+The Gambia,2008,10,Shigella,5.833333,0
+The Gambia,2008,11,Shigella,0,0
+The Gambia,2008,12,Shigella,2.125,4
+The Gambia,2009,1,Shigella,4.425,0
+The Gambia,2009,2,Shigella,6.716667,0
+The Gambia,2009,3,Shigella,0,0
+The Gambia,2009,4,Shigella,5.061538,1
+The Gambia,2009,5,Shigella,2.75,0
+The Gambia,2009,6,Shigella,1.25,2.333333
+The Gambia,2009,7,Shigella,3.75,3.4
+The Gambia,2009,8,Shigella,1.5,0
+The Gambia,2009,9,Shigella,3.583333,4
+The Gambia,2009,10,Shigella,2.822222,2
+The Gambia,2009,11,Shigella,0,2
+The Gambia,2009,12,Shigella,4.266667,2
+The Gambia,2010,1,Shigella,1.307692,0
+The Gambia,2010,2,Shigella,3,0
+The Gambia,2010,3,Shigella,1.333333,1
+The Gambia,2010,4,Shigella,3,1
+The Gambia,2010,5,Shigella,5.666667,0
+The Gambia,2010,6,Shigella,10.51111,2
+The Gambia,2010,7,Shigella,2.25,2
+The Gambia,2010,8,Shigella,6.75,0
+The Gambia,2010,9,Shigella,3,0
+The Gambia,2010,10,Shigella,3,0
+The Gambia,2010,11,Shigella,0,0
+The Gambia,2010,12,Shigella,1.5,0
+The Gambia,2007,12,V cholerae,0,0
+The Gambia,2008,1,V cholerae,0,0
+The Gambia,2008,2,V cholerae,0,0
+The Gambia,2008,3,V cholerae,0,0
+The Gambia,2008,4,V cholerae,0,0
+The Gambia,2008,5,V cholerae,0,0
+The Gambia,2008,6,V cholerae,0,0
+The Gambia,2008,7,V cholerae,0,0
+The Gambia,2008,8,V cholerae,0,0
+The Gambia,2008,9,V cholerae,0,0
+The Gambia,2008,10,V cholerae,0,0
+The Gambia,2008,11,V cholerae,0,0
+The Gambia,2008,12,V cholerae,0,0
+The Gambia,2009,1,V cholerae,0,0
+The Gambia,2009,2,V cholerae,0,0
+The Gambia,2009,3,V cholerae,0,0
+The Gambia,2009,4,V cholerae,0,0
+The Gambia,2009,5,V cholerae,0,0
+The Gambia,2009,6,V cholerae,0,0
+The Gambia,2009,7,V cholerae,0,0
+The Gambia,2009,8,V cholerae,0,0
+The Gambia,2009,9,V cholerae,0,0
+The Gambia,2009,10,V cholerae,0,0
+The Gambia,2009,11,V cholerae,0,0
+The Gambia,2009,12,V cholerae,0,0
+The Gambia,2010,1,V cholerae,0,0
+The Gambia,2010,2,V cholerae,0,0
+The Gambia,2010,3,V cholerae,0,0
+The Gambia,2010,4,V cholerae,0,0
+The Gambia,2010,5,V cholerae,0,0
+The Gambia,2010,6,V cholerae,0,0
+The Gambia,2010,7,V cholerae,0,0
+The Gambia,2010,8,V cholerae,0,0
+The Gambia,2010,9,V cholerae,0,0
+The Gambia,2010,10,V cholerae,0,0
+The Gambia,2010,11,V cholerae,0,0
+The Gambia,2010,12,V cholerae,0,0
+The Gambia,2007,12,ETEC ST,6.020202,0
+The Gambia,2008,1,ETEC ST,3.727273,4.266667
+The Gambia,2008,2,ETEC ST,15.71818,0
+The Gambia,2008,3,ETEC ST,0,0
+The Gambia,2008,4,ETEC ST,9.7,0
+The Gambia,2008,5,ETEC ST,6.804762,14
+The Gambia,2008,6,ETEC ST,25.11863,2
+The Gambia,2008,7,ETEC ST,26.16955,6.5
+The Gambia,2008,8,ETEC ST,12.77778,0
+The Gambia,2008,9,ETEC ST,31.10952,5
+The Gambia,2008,10,ETEC ST,4.166667,1.285714
+The Gambia,2008,11,ETEC ST,0,0
+The Gambia,2008,12,ETEC ST,2,0
+The Gambia,2009,1,ETEC ST,1.428571,2
+The Gambia,2009,2,ETEC ST,0,0
+The Gambia,2009,3,ETEC ST,1.466667,2.7
+The Gambia,2009,4,ETEC ST,2.530769,0
+The Gambia,2009,5,ETEC ST,1.5,0
+The Gambia,2009,6,ETEC ST,5.25,1
+The Gambia,2009,7,ETEC ST,6.816667,1.4
+The Gambia,2009,8,ETEC ST,10.09524,1
+The Gambia,2009,9,ETEC ST,3.6,0
+The Gambia,2009,10,ETEC ST,0,0
+The Gambia,2009,11,ETEC ST,0,0
+The Gambia,2009,12,ETEC ST,1,0
+The Gambia,2010,1,ETEC ST,1.5,0
+The Gambia,2010,2,ETEC ST,0,0
+The Gambia,2010,3,ETEC ST,0,0
+The Gambia,2010,4,ETEC ST,0,0
+The Gambia,2010,5,ETEC ST,0,0
+The Gambia,2010,6,ETEC ST,2.7,6
+The Gambia,2010,7,ETEC ST,12.85,3
+The Gambia,2010,8,ETEC ST,11.04167,0
+The Gambia,2010,9,ETEC ST,0,0
+The Gambia,2010,10,ETEC ST,0,0
+The Gambia,2010,11,ETEC ST,0,0
+The Gambia,2010,12,ETEC ST,0,0
+The Gambia,2007,12,tEPEC,0,0
+The Gambia,2008,1,tEPEC,14.12727,0
+The Gambia,2008,2,tEPEC,5.666667,0
+The Gambia,2008,3,tEPEC,17.20833,0
+The Gambia,2008,4,tEPEC,10.5,7.4
+The Gambia,2008,5,tEPEC,3.85,0
+The Gambia,2008,6,tEPEC,6.432692,0
+The Gambia,2008,7,tEPEC,3.090909,0
+The Gambia,2008,8,tEPEC,2.666667,0
+The Gambia,2008,9,tEPEC,0,0
+The Gambia,2008,10,tEPEC,0,0
+The Gambia,2008,11,tEPEC,0,0
+The Gambia,2008,12,tEPEC,1.125,0
+The Gambia,2009,1,tEPEC,0,0
+The Gambia,2009,2,tEPEC,3.466667,3.222222
+The Gambia,2009,3,tEPEC,1.466667,0
+The Gambia,2009,4,tEPEC,0,2
+The Gambia,2009,5,tEPEC,2.75,1.5
+The Gambia,2009,6,tEPEC,5.666667,1.333333
+The Gambia,2009,7,tEPEC,16.93636,1.4
+The Gambia,2009,8,tEPEC,13.95238,0
+The Gambia,2009,9,tEPEC,2.333333,0
+The Gambia,2009,10,tEPEC,3.933333,1
+The Gambia,2009,11,tEPEC,3.571429,0
+The Gambia,2009,12,tEPEC,0,0
+The Gambia,2010,1,tEPEC,2.807692,0
+The Gambia,2010,2,tEPEC,6.657143,1.666667
+The Gambia,2010,3,tEPEC,2,2
+The Gambia,2010,4,tEPEC,0,0
+The Gambia,2010,5,tEPEC,5.333333,0
+The Gambia,2010,6,tEPEC,7.4,2
+The Gambia,2010,7,tEPEC,3.785714,0
+The Gambia,2010,8,tEPEC,7.708333,0
+The Gambia,2010,9,tEPEC,5,0
+The Gambia,2010,10,tEPEC,0,0
+The Gambia,2010,11,tEPEC,0,0
+The Gambia,2010,12,tEPEC,2.5,0
+The Gambia,2007,12,EAEC,13.4359,1.75
+The Gambia,2008,1,EAEC,45.67483,1.25
+The Gambia,2008,2,EAEC,18.93333,0
+The Gambia,2008,3,EAEC,17.29167,1
+The Gambia,2008,4,EAEC,15.3,0
+The Gambia,2008,5,EAEC,4.971429,0
+The Gambia,2008,6,EAEC,18.1486,2
+The Gambia,2008,7,EAEC,24.72944,0
+The Gambia,2008,8,EAEC,14,3.5
+The Gambia,2008,9,EAEC,28.05238,5
+The Gambia,2008,10,EAEC,6.690476,1.285714
+The Gambia,2008,11,EAEC,8.869048,3
+The Gambia,2008,12,EAEC,4.75,2
+The Gambia,2009,1,EAEC,20.30357,0
+The Gambia,2009,2,EAEC,62.33889,3.666667
+The Gambia,2009,3,EAEC,6.308333,2.7
+The Gambia,2009,4,EAEC,9.011538,0
+The Gambia,2009,5,EAEC,10.5,1
+The Gambia,2009,6,EAEC,13.16667,0
+The Gambia,2009,7,EAEC,14.74848,2.8
+The Gambia,2009,8,EAEC,2.285714,0
+The Gambia,2009,9,EAEC,2.85,0
+The Gambia,2009,10,EAEC,11.23333,2
+The Gambia,2009,11,EAEC,1.714286,1
+The Gambia,2009,12,EAEC,2.933333,0
+The Gambia,2010,1,EAEC,17.32168,3
+The Gambia,2010,2,EAEC,9.714286,0
+The Gambia,2010,3,EAEC,5.333333,0
+The Gambia,2010,4,EAEC,10,2
+The Gambia,2010,5,EAEC,9.666667,1
+The Gambia,2010,6,EAEC,14.73333,2
+The Gambia,2010,7,EAEC,19.99286,5
+The Gambia,2010,8,EAEC,11.125,4
+The Gambia,2010,9,EAEC,0,0
+The Gambia,2010,10,EAEC,3,0
+The Gambia,2010,11,EAEC,1.666667,0
+The Gambia,2010,12,EAEC,4.833333,0
+The Gambia,2007,12,Cryptosporidium,0,0
+The Gambia,2008,1,Cryptosporidium,1.909091,0
+The Gambia,2008,2,Cryptosporidium,0,0
+The Gambia,2008,3,Cryptosporidium,0,0
+The Gambia,2008,4,Cryptosporidium,1.6,0
+The Gambia,2008,5,Cryptosporidium,1.833333,0
+The Gambia,2008,6,Cryptosporidium,9.465909,0
+The Gambia,2008,7,Cryptosporidium,12.79293,0
+The Gambia,2008,8,Cryptosporidium,16.61111,2.5
+The Gambia,2008,9,Cryptosporidium,25.88095,0
+The Gambia,2008,10,Cryptosporidium,18.90476,0
+The Gambia,2008,11,Cryptosporidium,2.666667,0
+The Gambia,2008,12,Cryptosporidium,2.75,0
+The Gambia,2009,1,Cryptosporidium,0,0
+The Gambia,2009,2,Cryptosporidium,0,0
+The Gambia,2009,3,Cryptosporidium,0,0
+The Gambia,2009,4,Cryptosporidium,0,0
+The Gambia,2009,5,Cryptosporidium,0,0
+The Gambia,2009,6,Cryptosporidium,2.5,0
+The Gambia,2009,7,Cryptosporidium,18.24091,0
+The Gambia,2009,8,Cryptosporidium,8.571429,0
+The Gambia,2009,9,Cryptosporidium,8.45,2
+The Gambia,2009,10,Cryptosporidium,12.05873,0
+The Gambia,2009,11,Cryptosporidium,8.285714,0
+The Gambia,2009,12,Cryptosporidium,4.266667,0
+The Gambia,2010,1,Cryptosporidium,3.636364,0
+The Gambia,2010,2,Cryptosporidium,1.857143,0
+The Gambia,2010,3,Cryptosporidium,0,0
+The Gambia,2010,4,Cryptosporidium,2,0
+The Gambia,2010,5,Cryptosporidium,1.333333,0
+The Gambia,2010,6,Cryptosporidium,10.10556,3
+The Gambia,2010,7,Cryptosporidium,12.52857,0
+The Gambia,2010,8,Cryptosporidium,8.083333,0
+The Gambia,2010,9,Cryptosporidium,5,0
+The Gambia,2010,10,Cryptosporidium,3,0
+The Gambia,2010,11,Cryptosporidium,0,0
+The Gambia,2010,12,Cryptosporidium,0,0
+The Gambia,2007,12,Rotavirus,2.606838,1.75
+The Gambia,2008,1,Rotavirus,66.83217,10.3
+The Gambia,2008,2,Rotavirus,33.1,0
+The Gambia,2008,3,Rotavirus,6.166667,0
+The Gambia,2008,4,Rotavirus,5.6,3
+The Gambia,2008,5,Rotavirus,12.04103,3.5
+The Gambia,2008,6,Rotavirus,29.3022,2
+The Gambia,2008,7,Rotavirus,0,0
+The Gambia,2008,8,Rotavirus,0,0
+The Gambia,2008,9,Rotavirus,0,0
+The Gambia,2008,10,Rotavirus,0,0
+The Gambia,2008,11,Rotavirus,0,0
+The Gambia,2008,12,Rotavirus,0,0
+The Gambia,2009,1,Rotavirus,32.90714,0
+The Gambia,2009,2,Rotavirus,64.12222,9.111111
+The Gambia,2009,3,Rotavirus,31.95577,3
+The Gambia,2009,4,Rotavirus,4.05,0
+The Gambia,2009,5,Rotavirus,0,0
+The Gambia,2009,6,Rotavirus,0,0
+The Gambia,2009,7,Rotavirus,0,0
+The Gambia,2009,8,Rotavirus,0,0
+The Gambia,2009,9,Rotavirus,0,0
+The Gambia,2009,10,Rotavirus,0,0
+The Gambia,2009,11,Rotavirus,0,0
+The Gambia,2009,12,Rotavirus,3.2,0
+The Gambia,2010,1,Rotavirus,36.58479,4
+The Gambia,2010,2,Rotavirus,46.14286,3.166667
+The Gambia,2010,3,Rotavirus,6.666667,0
+The Gambia,2010,4,Rotavirus,4,0
+The Gambia,2010,5,Rotavirus,8,0
+The Gambia,2010,6,Rotavirus,2.95,5
+The Gambia,2010,7,Rotavirus,1.75,0
+The Gambia,2010,8,Rotavirus,0,0
+The Gambia,2010,9,Rotavirus,0,0
+The Gambia,2010,10,Rotavirus,0,0
+The Gambia,2010,11,Rotavirus,1.5,0
+The Gambia,2010,12,Rotavirus,3,0
+The Gambia,2007,12,Norovirus GI,0,0
+The Gambia,2008,1,Norovirus GI,0,2.6
+The Gambia,2008,2,Norovirus GI,0,0
+The Gambia,2008,3,Norovirus GI,0,0
+The Gambia,2008,4,Norovirus GI,6.5,2.2
+The Gambia,2008,5,Norovirus GI,4.821429,0
+The Gambia,2008,6,Norovirus GI,0,0
+The Gambia,2008,7,Norovirus GI,5.055556,4
+The Gambia,2008,8,Norovirus GI,16.5,4
+The Gambia,2008,9,Norovirus GI,0,0
+The Gambia,2008,10,Norovirus GI,1.333333,1.285714
+The Gambia,2008,11,Norovirus GI,0,6.666667
+The Gambia,2008,12,Norovirus GI,1,0
+The Gambia,2009,1,Norovirus GI,0,0
+The Gambia,2009,2,Norovirus GI,0,1.222222
+The Gambia,2009,3,Norovirus GI,0,0
+The Gambia,2009,4,Norovirus GI,0,0
+The Gambia,2009,5,Norovirus GI,0,0
+The Gambia,2009,6,Norovirus GI,2.333333,1.333333
+The Gambia,2009,7,Norovirus GI,0,0
+The Gambia,2009,8,Norovirus GI,2.285714,1.5
+The Gambia,2009,9,Norovirus GI,0,0
+The Gambia,2009,10,Norovirus GI,0,0
+The Gambia,2009,11,Norovirus GI,0,0
+The Gambia,2009,12,Norovirus GI,0,0
+The Gambia,2010,1,Norovirus GI,0,0
+The Gambia,2010,2,Norovirus GI,0,0
+The Gambia,2010,3,Norovirus GI,0,0
+The Gambia,2010,4,Norovirus GI,0,0
+The Gambia,2010,5,Norovirus GI,1.333333,0
+The Gambia,2010,6,Norovirus GI,1.5,4
+The Gambia,2010,7,Norovirus GI,3.535714,0
+The Gambia,2010,8,Norovirus GI,2.375,0
+The Gambia,2010,9,Norovirus GI,0,0
+The Gambia,2010,10,Norovirus GI,0,0
+The Gambia,2010,11,Norovirus GI,0,0
+The Gambia,2010,12,Norovirus GI,0,0
+The Gambia,2007,12,Norovirus GII,19.17405,0
+The Gambia,2008,1,Norovirus GII,7.402797,1.25
+The Gambia,2008,2,Norovirus GII,2.833333,0
+The Gambia,2008,3,Norovirus GII,3.125,11
+The Gambia,2008,4,Norovirus GII,4,0
+The Gambia,2008,5,Norovirus GII,1.6,0
+The Gambia,2008,6,Norovirus GII,11.95055,2
+The Gambia,2008,7,Norovirus GII,9.329004,0
+The Gambia,2008,8,Norovirus GII,15.16667,1.75
+The Gambia,2008,9,Norovirus GII,8.938095,5
+The Gambia,2008,10,Norovirus GII,2.619048,2.571429
+The Gambia,2008,11,Norovirus GII,5,2
+The Gambia,2008,12,Norovirus GII,23.28571,3
+The Gambia,2009,1,Norovirus GII,12.36786,1
+The Gambia,2009,2,Norovirus GII,3.25,0
+The Gambia,2009,3,Norovirus GII,0,0
+The Gambia,2009,4,Norovirus GII,3.905769,1
+The Gambia,2009,5,Norovirus GII,1.25,0
+The Gambia,2009,6,Norovirus GII,3.833333,0
+The Gambia,2009,7,Norovirus GII,0,0
+The Gambia,2009,8,Norovirus GII,1.5,0
+The Gambia,2009,9,Norovirus GII,0,0
+The Gambia,2009,10,Norovirus GII,3.314286,0
+The Gambia,2009,11,Norovirus GII,1.285714,0
+The Gambia,2009,12,Norovirus GII,2.666667,0
+The Gambia,2010,1,Norovirus GII,0,0
+The Gambia,2010,2,Norovirus GII,0,0
+The Gambia,2010,3,Norovirus GII,0,0
+The Gambia,2010,4,Norovirus GII,0,0
+The Gambia,2010,5,Norovirus GII,9,1
+The Gambia,2010,6,Norovirus GII,7.111111,2
+The Gambia,2010,7,Norovirus GII,5.85,1.5
+The Gambia,2010,8,Norovirus GII,7.125,1
+The Gambia,2010,9,Norovirus GII,2,3
+The Gambia,2010,10,Norovirus GII,3,0
+The Gambia,2010,11,Norovirus GII,0,0
+The Gambia,2010,12,Norovirus GII,3.166667,1
+The Gambia,2007,12,Adenovirus 40/41,0,0
+The Gambia,2008,1,Adenovirus 40/41,0,0
+The Gambia,2008,2,Adenovirus 40/41,0,0
+The Gambia,2008,3,Adenovirus 40/41,0,0
+The Gambia,2008,4,Adenovirus 40/41,4,0
+The Gambia,2008,5,Adenovirus 40/41,0,0
+The Gambia,2008,6,Adenovirus 40/41,9.758242,0
+The Gambia,2008,7,Adenovirus 40/41,3.666667,0
+The Gambia,2008,8,Adenovirus 40/41,0,0
+The Gambia,2008,9,Adenovirus 40/41,0,0
+The Gambia,2008,10,Adenovirus 40/41,0,0
+The Gambia,2008,11,Adenovirus 40/41,0,0
+The Gambia,2008,12,Adenovirus 40/41,1.428571,0
+The Gambia,2009,1,Adenovirus 40/41,0,0
+The Gambia,2009,2,Adenovirus 40/41,0,0
+The Gambia,2009,3,Adenovirus 40/41,0,0
+The Gambia,2009,4,Adenovirus 40/41,1.333333,0
+The Gambia,2009,5,Adenovirus 40/41,0,0
+The Gambia,2009,6,Adenovirus 40/41,1.25,0
+The Gambia,2009,7,Adenovirus 40/41,6.674242,0
+The Gambia,2009,8,Adenovirus 40/41,3.428571,0
+The Gambia,2009,9,Adenovirus 40/41,0,0
+The Gambia,2009,10,Adenovirus 40/41,0,0
+The Gambia,2009,11,Adenovirus 40/41,0,0
+The Gambia,2009,12,Adenovirus 40/41,0,0
+The Gambia,2010,1,Adenovirus 40/41,1.818182,0
+The Gambia,2010,2,Adenovirus 40/41,0,0
+The Gambia,2010,3,Adenovirus 40/41,0,0
+The Gambia,2010,4,Adenovirus 40/41,0,0
+The Gambia,2010,5,Adenovirus 40/41,3.333333,0
+The Gambia,2010,6,Adenovirus 40/41,1.2,0
+The Gambia,2010,7,Adenovirus 40/41,2.25,0
+The Gambia,2010,8,Adenovirus 40/41,5,0
+The Gambia,2010,9,Adenovirus 40/41,0,0
+The Gambia,2010,10,Adenovirus 40/41,0,0
+The Gambia,2010,11,Adenovirus 40/41,0,0
+The Gambia,2010,12,Adenovirus 40/41,0,0
+Mali,2007,12,all MSD,5,0
+Mali,2008,1,all MSD,17.8,5
+Mali,2008,2,all MSD,28.13333,10
+Mali,2008,3,all MSD,27.1619,12
+Mali,2008,4,all MSD,32.90476,7
+Mali,2008,5,all MSD,56,5
+Mali,2008,6,all MSD,66.14286,11
+Mali,2008,7,all MSD,159.1905,30
+Mali,2008,8,all MSD,142,24.14286
+Mali,2008,9,all MSD,96.66667,27.85714
+Mali,2008,10,all MSD,115,19
+Mali,2008,11,all MSD,117,31
+Mali,2008,12,all MSD,191.7778,20.22222
+Mali,2009,1,all MSD,98.66667,20.11111
+Mali,2009,2,all MSD,83.33333,23.44444
+Mali,2009,3,all MSD,62.12222,26.77778
+Mali,2009,4,all MSD,107.1,17.44444
+Mali,2009,5,all MSD,113,39
+Mali,2009,6,all MSD,198,36.22222
+Mali,2009,7,all MSD,88.5,24.77778
+Mali,2009,8,all MSD,108.5,24
+Mali,2009,9,all MSD,85,22.88889
+Mali,2009,10,all MSD,77,22.11111
+Mali,2009,11,all MSD,78.88889,28
+Mali,2009,12,all MSD,68.55556,19
+Mali,2010,1,all MSD,47.77778,29.33333
+Mali,2010,2,all MSD,44.11111,18
+Mali,2010,3,all MSD,56.66667,25.22222
+Mali,2010,4,all MSD,57,20.44444
+Mali,2010,5,all MSD,46.11111,23
+Mali,2010,6,all MSD,57.34343,21
+Mali,2010,7,all MSD,49.87879,19.66667
+Mali,2010,8,all MSD,66.66667,25.44444
+Mali,2010,9,all MSD,50,21.88889
+Mali,2010,10,all MSD,56,20
+Mali,2010,11,all MSD,58.66667,26
+Mali,2010,12,all MSD,34.33333,7
+Mali,2007,12,Aeromonas,0,0
+Mali,2008,1,Aeromonas,0,0
+Mali,2008,2,Aeromonas,1,0
+Mali,2008,3,Aeromonas,0,0
+Mali,2008,4,Aeromonas,0,0
+Mali,2008,5,Aeromonas,0,0
+Mali,2008,6,Aeromonas,0,0
+Mali,2008,7,Aeromonas,0,0
+Mali,2008,8,Aeromonas,0,0
+Mali,2008,9,Aeromonas,0,0
+Mali,2008,10,Aeromonas,0,0
+Mali,2008,11,Aeromonas,0,0
+Mali,2008,12,Aeromonas,0,0
+Mali,2009,1,Aeromonas,0,0
+Mali,2009,2,Aeromonas,0,0
+Mali,2009,3,Aeromonas,0,0
+Mali,2009,4,Aeromonas,0,0
+Mali,2009,5,Aeromonas,0,0
+Mali,2009,6,Aeromonas,0,1.444444
+Mali,2009,7,Aeromonas,0,1
+Mali,2009,8,Aeromonas,0,0
+Mali,2009,9,Aeromonas,0,0
+Mali,2009,10,Aeromonas,0,0
+Mali,2009,11,Aeromonas,0,0
+Mali,2009,12,Aeromonas,0,0
+Mali,2010,1,Aeromonas,0,0
+Mali,2010,2,Aeromonas,0,0
+Mali,2010,3,Aeromonas,0,0
+Mali,2010,4,Aeromonas,1.5,0
+Mali,2010,5,Aeromonas,0,0
+Mali,2010,6,Aeromonas,0,0
+Mali,2010,7,Aeromonas,0,0
+Mali,2010,8,Aeromonas,0,0
+Mali,2010,9,Aeromonas,0,0
+Mali,2010,10,Aeromonas,0,0
+Mali,2010,11,Aeromonas,0,0
+Mali,2010,12,Aeromonas,0,0
+Mali,2007,12,C coli or jejuni,0,0
+Mali,2008,1,C coli or jejuni,0,0
+Mali,2008,2,C coli or jejuni,2.311111,1
+Mali,2008,3,C coli or jejuni,1.2,1
+Mali,2008,4,C coli or jejuni,1.111111,0
+Mali,2008,5,C coli or jejuni,0,0
+Mali,2008,6,C coli or jejuni,0,0
+Mali,2008,7,C coli or jejuni,0,0
+Mali,2008,8,C coli or jejuni,0,0
+Mali,2008,9,C coli or jejuni,0,0
+Mali,2008,10,C coli or jejuni,0,0
+Mali,2008,11,C coli or jejuni,0,0
+Mali,2008,12,C coli or jejuni,0,0
+Mali,2009,1,C coli or jejuni,0,0
+Mali,2009,2,C coli or jejuni,0,0
+Mali,2009,3,C coli or jejuni,0,0
+Mali,2009,4,C coli or jejuni,0,0
+Mali,2009,5,C coli or jejuni,0,0
+Mali,2009,6,C coli or jejuni,0,0
+Mali,2009,7,C coli or jejuni,0,0
+Mali,2009,8,C coli or jejuni,0,0
+Mali,2009,9,C coli or jejuni,0,0
+Mali,2009,10,C coli or jejuni,0,0
+Mali,2009,11,C coli or jejuni,0,0
+Mali,2009,12,C coli or jejuni,0,0
+Mali,2010,1,C coli or jejuni,0,0
+Mali,2010,2,C coli or jejuni,0,0
+Mali,2010,3,C coli or jejuni,0,0
+Mali,2010,4,C coli or jejuni,4.333333,0
+Mali,2010,5,C coli or jejuni,3.555556,2.222222
+Mali,2010,6,C coli or jejuni,1.666667,2
+Mali,2010,7,C coli or jejuni,6.222222,1.222222
+Mali,2010,8,C coli or jejuni,8.233333,3.622222
+Mali,2010,9,C coli or jejuni,4.988889,3
+Mali,2010,10,C coli or jejuni,8.888889,0
+Mali,2010,11,C coli or jejuni,1.111111,1.222222
+Mali,2010,12,C coli or jejuni,2,1
+Mali,2007,12,Shigella,0,0
+Mali,2008,1,Shigella,0,0
+Mali,2008,2,Shigella,1,0
+Mali,2008,3,Shigella,2.333333,0
+Mali,2008,4,Shigella,1.285714,0
+Mali,2008,5,Shigella,1,1
+Mali,2008,6,Shigella,0,2
+Mali,2008,7,Shigella,1.071429,0
+Mali,2008,8,Shigella,0,1
+Mali,2008,9,Shigella,0,0
+Mali,2008,10,Shigella,2.555556,1.444444
+Mali,2008,11,Shigella,0,0
+Mali,2008,12,Shigella,0,0
+Mali,2009,1,Shigella,1.888889,0
+Mali,2009,2,Shigella,4.111111,1.333333
+Mali,2009,3,Shigella,4.2,1.444444
+Mali,2009,4,Shigella,4,1
+Mali,2009,5,Shigella,0,0
+Mali,2009,6,Shigella,0,0
+Mali,2009,7,Shigella,0,1.444444
+Mali,2009,8,Shigella,2.1,0
+Mali,2009,9,Shigella,0,0
+Mali,2009,10,Shigella,1.777778,0
+Mali,2009,11,Shigella,0,1.2
+Mali,2009,12,Shigella,1.111111,0
+Mali,2010,1,Shigella,0,0
+Mali,2010,2,Shigella,0,1.222222
+Mali,2010,3,Shigella,0,0
+Mali,2010,4,Shigella,1.555556,0
+Mali,2010,5,Shigella,0,1
+Mali,2010,6,Shigella,0,1
+Mali,2010,7,Shigella,1.333333,1
+Mali,2010,8,Shigella,3.966667,1.2
+Mali,2010,9,Shigella,0,1
+Mali,2010,10,Shigella,0,0
+Mali,2010,11,Shigella,0,1
+Mali,2010,12,Shigella,1,0
+Mali,2007,12,V cholerae,0,0
+Mali,2008,1,V cholerae,0,0
+Mali,2008,2,V cholerae,0,0
+Mali,2008,3,V cholerae,0,0
+Mali,2008,4,V cholerae,0,0
+Mali,2008,5,V cholerae,0,0
+Mali,2008,6,V cholerae,0,0
+Mali,2008,7,V cholerae,0,0
+Mali,2008,8,V cholerae,0,0
+Mali,2008,9,V cholerae,0,0
+Mali,2008,10,V cholerae,0,0
+Mali,2008,11,V cholerae,0,0
+Mali,2008,12,V cholerae,0,0
+Mali,2009,1,V cholerae,0,0
+Mali,2009,2,V cholerae,0,0
+Mali,2009,3,V cholerae,0,0
+Mali,2009,4,V cholerae,0,0
+Mali,2009,5,V cholerae,0,0
+Mali,2009,6,V cholerae,0,0
+Mali,2009,7,V cholerae,0,0
+Mali,2009,8,V cholerae,0,0
+Mali,2009,9,V cholerae,0,0
+Mali,2009,10,V cholerae,0,0
+Mali,2009,11,V cholerae,0,0
+Mali,2009,12,V cholerae,0,0
+Mali,2010,1,V cholerae,0,0
+Mali,2010,2,V cholerae,0,0
+Mali,2010,3,V cholerae,0,0
+Mali,2010,4,V cholerae,0,0
+Mali,2010,5,V cholerae,0,0
+Mali,2010,6,V cholerae,0,0
+Mali,2010,7,V cholerae,0,0
+Mali,2010,8,V cholerae,0,0
+Mali,2010,9,V cholerae,0,0
+Mali,2010,10,V cholerae,0,0
+Mali,2010,11,V cholerae,0,0
+Mali,2010,12,V cholerae,0,0
+Mali,2007,12,ETEC ST,1,0
+Mali,2008,1,ETEC ST,0,0
+Mali,2008,2,ETEC ST,1.111111,1
+Mali,2008,3,ETEC ST,2.452381,1.2
+Mali,2008,4,ETEC ST,1.111111,0
+Mali,2008,5,ETEC ST,1.533333,0
+Mali,2008,6,ETEC ST,6.2,0
+Mali,2008,7,ETEC ST,13.06667,0
+Mali,2008,8,ETEC ST,9.4,0
+Mali,2008,9,ETEC ST,0,0
+Mali,2008,10,ETEC ST,0,0
+Mali,2008,11,ETEC ST,10.44444,1.888889
+Mali,2008,12,ETEC ST,6.444444,1.111111
+Mali,2009,1,ETEC ST,1.111111,0
+Mali,2009,2,ETEC ST,0,0
+Mali,2009,3,ETEC ST,0,2.888889
+Mali,2009,4,ETEC ST,9.666667,1
+Mali,2009,5,ETEC ST,3.444444,1.9
+Mali,2009,6,ETEC ST,4.222222,1.666667
+Mali,2009,7,ETEC ST,15.94444,3.111111
+Mali,2009,8,ETEC ST,0,0
+Mali,2009,9,ETEC ST,2.9,1.2
+Mali,2009,10,ETEC ST,0,1
+Mali,2009,11,ETEC ST,2,5.155556
+Mali,2009,12,ETEC ST,0,0
+Mali,2010,1,ETEC ST,4.111111,2.444444
+Mali,2010,2,ETEC ST,2,0
+Mali,2010,3,ETEC ST,6.333333,1.222222
+Mali,2010,4,ETEC ST,5.833333,0
+Mali,2010,5,ETEC ST,2.555556,1.111111
+Mali,2010,6,ETEC ST,8.892929,0
+Mali,2010,7,ETEC ST,2.848485,0
+Mali,2010,8,ETEC ST,0,1.222222
+Mali,2010,9,ETEC ST,5.988889,2
+Mali,2010,10,ETEC ST,1.555556,2
+Mali,2010,11,ETEC ST,2.111111,1.222222
+Mali,2010,12,ETEC ST,2.444444,0
+Mali,2007,12,tEPEC,0,0
+Mali,2008,1,tEPEC,2.9,0
+Mali,2008,2,tEPEC,1.111111,3
+Mali,2008,3,tEPEC,3.857143,0
+Mali,2008,4,tEPEC,7.126984,0
+Mali,2008,5,tEPEC,9.666667,0
+Mali,2008,6,tEPEC,10.13333,0
+Mali,2008,7,tEPEC,14.34286,0
+Mali,2008,8,tEPEC,8.333333,1.2
+Mali,2008,9,tEPEC,13.01429,5.017857
+Mali,2008,10,tEPEC,17.11111,1.444444
+Mali,2008,11,tEPEC,13.11111,6.222222
+Mali,2008,12,tEPEC,15.66667,3
+Mali,2009,1,tEPEC,12.55556,2.222222
+Mali,2009,2,tEPEC,5.777778,1.333333
+Mali,2009,3,tEPEC,12.08889,2.888889
+Mali,2009,4,tEPEC,16.44444,2
+Mali,2009,5,tEPEC,15.11111,7.588889
+Mali,2009,6,tEPEC,20.76667,4.777778
+Mali,2009,7,tEPEC,19.24444,3.444444
+Mali,2009,8,tEPEC,20.65556,0
+Mali,2009,9,tEPEC,7.577778,1.222222
+Mali,2009,10,tEPEC,3.888889,1
+Mali,2009,11,tEPEC,13.63333,3.111111
+Mali,2009,12,tEPEC,1.888889,0
+Mali,2010,1,tEPEC,3.777778,1.333333
+Mali,2010,2,tEPEC,6.888889,0
+Mali,2010,3,tEPEC,6.4,2.333333
+Mali,2010,4,tEPEC,3.111111,4.111111
+Mali,2010,5,tEPEC,6.111111,3.111111
+Mali,2010,6,tEPEC,5,2
+Mali,2010,7,tEPEC,4.222222,5.444444
+Mali,2010,8,tEPEC,5.966667,1.2
+Mali,2010,9,tEPEC,7.2,3
+Mali,2010,10,tEPEC,5.333333,3.111111
+Mali,2010,11,tEPEC,3.222222,1.222222
+Mali,2010,12,tEPEC,2.111111,0
+Mali,2007,12,EAEC,0,0
+Mali,2008,1,EAEC,3.6,1.333333
+Mali,2008,2,EAEC,2.511111,2
+Mali,2008,3,EAEC,3.428571,1
+Mali,2008,4,EAEC,3.555556,0
+Mali,2008,5,EAEC,9.3,0
+Mali,2008,6,EAEC,3.871429,0
+Mali,2008,7,EAEC,38.68095,3.083333
+Mali,2008,8,EAEC,20.2,1
+Mali,2008,9,EAEC,21.74762,1.875
+Mali,2008,10,EAEC,12.11111,0
+Mali,2008,11,EAEC,11,8.777778
+Mali,2008,12,EAEC,46.66667,1
+Mali,2009,1,EAEC,16.77778,1.222222
+Mali,2009,2,EAEC,12.22222,2.444444
+Mali,2009,3,EAEC,16.97778,8.333333
+Mali,2009,4,EAEC,13.33333,3.222222
+Mali,2009,5,EAEC,24.22222,4.8
+Mali,2009,6,EAEC,49.41111,4.555556
+Mali,2009,7,EAEC,17.05556,5.444444
+Mali,2009,8,EAEC,30.96667,2.888889
+Mali,2009,9,EAEC,31.14444,6.311111
+Mali,2009,10,EAEC,9.088889,0
+Mali,2009,11,EAEC,19.67778,3.955556
+Mali,2009,12,EAEC,19.30556,6.333333
+Mali,2010,1,EAEC,8.694444,2.222222
+Mali,2010,2,EAEC,9.777778,3.666667
+Mali,2010,3,EAEC,12.6,4.777778
+Mali,2010,4,EAEC,10.16667,0
+Mali,2010,5,EAEC,12.55556,4.111111
+Mali,2010,6,EAEC,10.15253,3.111111
+Mali,2010,7,EAEC,12.33333,1
+Mali,2010,8,EAEC,13.74444,3.622222
+Mali,2010,9,EAEC,8.322222,1
+Mali,2010,10,EAEC,13.55556,2.222222
+Mali,2010,11,EAEC,8.222222,0
+Mali,2010,12,EAEC,1,0
+Mali,2007,12,Cryptosporidium,0,0
+Mali,2008,1,Cryptosporidium,0,0
+Mali,2008,2,Cryptosporidium,0,0
+Mali,2008,3,Cryptosporidium,0,2.2
+Mali,2008,4,Cryptosporidium,6.952381,1
+Mali,2008,5,Cryptosporidium,17.1,1
+Mali,2008,6,Cryptosporidium,27.46667,3
+Mali,2008,7,Cryptosporidium,53.68571,2
+Mali,2008,8,Cryptosporidium,27.8,2.2
+Mali,2008,9,Cryptosporidium,4.266667,0
+Mali,2008,10,Cryptosporidium,17.55556,1.444444
+Mali,2008,11,Cryptosporidium,5.555556,1.555556
+Mali,2008,12,Cryptosporidium,6.777778,0
+Mali,2009,1,Cryptosporidium,4.555556,0
+Mali,2009,2,Cryptosporidium,0,0
+Mali,2009,3,Cryptosporidium,2.888889,0
+Mali,2009,4,Cryptosporidium,11.66667,0
+Mali,2009,5,Cryptosporidium,29.33333,0
+Mali,2009,6,Cryptosporidium,50.38889,0
+Mali,2009,7,Cryptosporidium,28.67778,1
+Mali,2009,8,Cryptosporidium,27.22222,1.2
+Mali,2009,9,Cryptosporidium,6.677778,2.533333
+Mali,2009,10,Cryptosporidium,9.422222,1
+Mali,2009,11,Cryptosporidium,3.555556,0
+Mali,2009,12,Cryptosporidium,3.777778,0
+Mali,2010,1,Cryptosporidium,1.111111,0
+Mali,2010,2,Cryptosporidium,0,0
+Mali,2010,3,Cryptosporidium,2.733333,1.111111
+Mali,2010,4,Cryptosporidium,6.833333,1.444444
+Mali,2010,5,Cryptosporidium,2.888889,1
+Mali,2010,6,Cryptosporidium,10.51919,1
+Mali,2010,7,Cryptosporidium,17.11111,1
+Mali,2010,8,Cryptosporidium,21.18889,2.422222
+Mali,2010,9,Cryptosporidium,9.888889,1
+Mali,2010,10,Cryptosporidium,2.666667,0
+Mali,2010,11,Cryptosporidium,1.777778,0
+Mali,2010,12,Cryptosporidium,0,1
+Mali,2007,12,Rotavirus,4,0
+Mali,2008,1,Rotavirus,7.4,0
+Mali,2008,2,Rotavirus,8.266667,0
+Mali,2008,3,Rotavirus,0,0
+Mali,2008,4,Rotavirus,0,0
+Mali,2008,5,Rotavirus,0,0
+Mali,2008,6,Rotavirus,0,0
+Mali,2008,7,Rotavirus,6.6,0
+Mali,2008,8,Rotavirus,24.53333,0
+Mali,2008,9,Rotavirus,55.32381,1.571429
+Mali,2008,10,Rotavirus,26.55556,1
+Mali,2008,11,Rotavirus,59.66667,0
+Mali,2008,12,Rotavirus,100,7.111111
+Mali,2009,1,Rotavirus,37,0
+Mali,2009,2,Rotavirus,6.444444,0
+Mali,2009,3,Rotavirus,1.666667,0
+Mali,2009,4,Rotavirus,0,1.111111
+Mali,2009,5,Rotavirus,3.333333,0
+Mali,2009,6,Rotavirus,0,0
+Mali,2009,7,Rotavirus,7.766667,0
+Mali,2009,8,Rotavirus,2.888889,0
+Mali,2009,9,Rotavirus,22.91111,1.333333
+Mali,2009,10,Rotavirus,25.46667,2
+Mali,2009,11,Rotavirus,32.04444,7.066667
+Mali,2009,12,Rotavirus,40.38889,1
+Mali,2010,1,Rotavirus,21.69444,1.333333
+Mali,2010,2,Rotavirus,3.888889,0
+Mali,2010,3,Rotavirus,2.666667,0
+Mali,2010,4,Rotavirus,2.722222,0
+Mali,2010,5,Rotavirus,2.333333,0
+Mali,2010,6,Rotavirus,1.222222,0
+Mali,2010,7,Rotavirus,0,0
+Mali,2010,8,Rotavirus,9.822222,3.644444
+Mali,2010,9,Rotavirus,14.42222,1.222222
+Mali,2010,10,Rotavirus,10.44444,0
+Mali,2010,11,Rotavirus,18.88889,2.444444
+Mali,2010,12,Rotavirus,22.55556,1
+Mali,2007,12,Norovirus GI,0,0
+Mali,2008,1,Norovirus GI,0,0
+Mali,2008,2,Norovirus GI,0,0
+Mali,2008,3,Norovirus GI,0,0
+Mali,2008,4,Norovirus GI,0,0
+Mali,2008,5,Norovirus GI,1.533333,1
+Mali,2008,6,Norovirus GI,0,0
+Mali,2008,7,Norovirus GI,0,0
+Mali,2008,8,Norovirus GI,0,0
+Mali,2008,9,Norovirus GI,0,0
+Mali,2008,10,Norovirus GI,0,1.444444
+Mali,2008,11,Norovirus GI,0,0
+Mali,2008,12,Norovirus GI,0,0
+Mali,2009,1,Norovirus GI,0,0
+Mali,2009,2,Norovirus GI,0,0
+Mali,2009,3,Norovirus GI,0,0
+Mali,2009,4,Norovirus GI,2,1
+Mali,2009,5,Norovirus GI,0,3.9
+Mali,2009,6,Norovirus GI,18.66667,4.777778
+Mali,2009,7,Norovirus GI,0,0
+Mali,2009,8,Norovirus GI,0,0
+Mali,2009,9,Norovirus GI,2.9,2.666667
+Mali,2009,10,Norovirus GI,0,0
+Mali,2009,11,Norovirus GI,2.3,0
+Mali,2009,12,Norovirus GI,0,1
+Mali,2010,1,Norovirus GI,0,0
+Mali,2010,2,Norovirus GI,0,0
+Mali,2010,3,Norovirus GI,0,0
+Mali,2010,4,Norovirus GI,0,0
+Mali,2010,5,Norovirus GI,1.444444,1.111111
+Mali,2010,6,Norovirus GI,0,0
+Mali,2010,7,Norovirus GI,0,0
+Mali,2010,8,Norovirus GI,0,0
+Mali,2010,9,Norovirus GI,0,0
+Mali,2010,10,Norovirus GI,0,0
+Mali,2010,11,Norovirus GI,0,0
+Mali,2010,12,Norovirus GI,2.444444,0
+Mali,2007,12,Norovirus GII,0,0
+Mali,2008,1,Norovirus GII,1.5,0
+Mali,2008,2,Norovirus GII,3.6,1
+Mali,2008,3,Norovirus GII,0,0
+Mali,2008,4,Norovirus GII,3.396825,0
+Mali,2008,5,Norovirus GII,3.033333,0
+Mali,2008,6,Norovirus GII,1.333333,0
+Mali,2008,7,Norovirus GII,1.933333,0
+Mali,2008,8,Norovirus GII,0,3.2
+Mali,2008,9,Norovirus GII,0,1.571429
+Mali,2008,10,Norovirus GII,0,0
+Mali,2008,11,Norovirus GII,0,0
+Mali,2008,12,Norovirus GII,0,0
+Mali,2009,1,Norovirus GII,0,0
+Mali,2009,2,Norovirus GII,0,0
+Mali,2009,3,Norovirus GII,1.444444,0
+Mali,2009,4,Norovirus GII,0,0
+Mali,2009,5,Norovirus GII,0,1.9
+Mali,2009,6,Norovirus GII,2.666667,0
+Mali,2009,7,Norovirus GII,0,0
+Mali,2009,8,Norovirus GII,0,0
+Mali,2009,9,Norovirus GII,1.777778,1.222222
+Mali,2009,10,Norovirus GII,0,0
+Mali,2009,11,Norovirus GII,2.3,3.6
+Mali,2009,12,Norovirus GII,4.444444,2
+Mali,2010,1,Norovirus GII,0,0
+Mali,2010,2,Norovirus GII,0,0
+Mali,2010,3,Norovirus GII,6.866667,0
+Mali,2010,4,Norovirus GII,0,0
+Mali,2010,5,Norovirus GII,0,0
+Mali,2010,6,Norovirus GII,0,0
+Mali,2010,7,Norovirus GII,0,0
+Mali,2010,8,Norovirus GII,0,1.2
+Mali,2010,9,Norovirus GII,0,0
+Mali,2010,10,Norovirus GII,0,0
+Mali,2010,11,Norovirus GII,0,0
+Mali,2010,12,Norovirus GII,2.111111,0
+Mali,2007,12,Adenovirus 40/41,0,0
+Mali,2008,1,Adenovirus 40/41,0,0
+Mali,2008,2,Adenovirus 40/41,0,0
+Mali,2008,3,Adenovirus 40/41,1.166667,0
+Mali,2008,4,Adenovirus 40/41,3.428571,0
+Mali,2008,5,Adenovirus 40/41,2.533333,0
+Mali,2008,6,Adenovirus 40/41,1.466667,0
+Mali,2008,7,Adenovirus 40/41,6.333333,0
+Mali,2008,8,Adenovirus 40/41,4.333333,0
+Mali,2008,9,Adenovirus 40/41,4.614286,0
+Mali,2008,10,Adenovirus 40/41,6.666667,0
+Mali,2008,11,Adenovirus 40/41,0,0
+Mali,2008,12,Adenovirus 40/41,0,0
+Mali,2009,1,Adenovirus 40/41,2.333333,0
+Mali,2009,2,Adenovirus 40/41,3.111111,0
+Mali,2009,3,Adenovirus 40/41,0,0
+Mali,2009,4,Adenovirus 40/41,0,1.111111
+Mali,2009,5,Adenovirus 40/41,5.777778,1.9
+Mali,2009,6,Adenovirus 40/41,1.888889,0
+Mali,2009,7,Adenovirus 40/41,0,0
+Mali,2009,8,Adenovirus 40/41,0,0
+Mali,2009,9,Adenovirus 40/41,2,0
+Mali,2009,10,Adenovirus 40/41,1.777778,0
+Mali,2009,11,Adenovirus 40/41,0,0
+Mali,2009,12,Adenovirus 40/41,0,1
+Mali,2010,1,Adenovirus 40/41,1.222222,0
+Mali,2010,2,Adenovirus 40/41,0,0
+Mali,2010,3,Adenovirus 40/41,4.133333,0
+Mali,2010,4,Adenovirus 40/41,3.444444,0
+Mali,2010,5,Adenovirus 40/41,0,0
+Mali,2010,6,Adenovirus 40/41,1.181818,0
+Mali,2010,7,Adenovirus 40/41,1.666667,0
+Mali,2010,8,Adenovirus 40/41,0,0
+Mali,2010,9,Adenovirus 40/41,0,1
+Mali,2010,10,Adenovirus 40/41,0,0
+Mali,2010,11,Adenovirus 40/41,0,0
+Mali,2010,12,Adenovirus 40/41,0,0
+Mozambique,2007,12,all MSD,59.66667,11.5
+Mozambique,2008,1,all MSD,70.11515,23.5
+Mozambique,2008,2,all MSD,61.07532,13
+Mozambique,2008,3,all MSD,51.14286,13.5
+Mozambique,2008,4,all MSD,36,8.5
+Mozambique,2008,5,all MSD,34.66667,3
+Mozambique,2008,6,all MSD,24.33333,5
+Mozambique,2008,7,all MSD,47.25,2
+Mozambique,2008,8,all MSD,15.75,2
+Mozambique,2008,9,all MSD,17.2,6
+Mozambique,2008,10,all MSD,36.9,10
+Mozambique,2008,11,all MSD,31.75714,10
+Mozambique,2008,12,all MSD,43.14286,5
+Mozambique,2009,1,all MSD,35,5
+Mozambique,2009,2,all MSD,30,18
+Mozambique,2009,3,all MSD,38.5,5
+Mozambique,2009,4,all MSD,6.166667,0
+Mozambique,2009,5,all MSD,15.33333,7
+Mozambique,2009,6,all MSD,56,1
+Mozambique,2009,7,all MSD,26.5,0
+Mozambique,2009,8,all MSD,10.5,1
+Mozambique,2009,9,all MSD,11.5,4
+Mozambique,2009,10,all MSD,26.18571,8
+Mozambique,2009,11,all MSD,30.31429,10
+Mozambique,2009,12,all MSD,26.83333,6.5
+Mozambique,2010,1,all MSD,37.16667,12.5
+Mozambique,2010,2,all MSD,51,11
+Mozambique,2010,3,all MSD,36,1
+Mozambique,2010,4,all MSD,24,0
+Mozambique,2010,5,all MSD,16,2
+Mozambique,2010,6,all MSD,12,0
+Mozambique,2010,7,all MSD,8,0
+Mozambique,2010,8,all MSD,14,0
+Mozambique,2010,9,all MSD,11.5,3
+Mozambique,2010,10,all MSD,9.5,2
+Mozambique,2010,11,all MSD,20,2.5
+Mozambique,2010,12,all MSD,27,4.5
+Mozambique,2007,12,Aeromonas,0,0
+Mozambique,2008,1,Aeromonas,3.685714,0
+Mozambique,2008,2,Aeromonas,0,0
+Mozambique,2008,3,Aeromonas,0,0
+Mozambique,2008,4,Aeromonas,0,0
+Mozambique,2008,5,Aeromonas,1.428571,0
+Mozambique,2008,6,Aeromonas,0,0
+Mozambique,2008,7,Aeromonas,0,0
+Mozambique,2008,8,Aeromonas,0,0
+Mozambique,2008,9,Aeromonas,1.333333,0
+Mozambique,2008,10,Aeromonas,0,0
+Mozambique,2008,11,Aeromonas,0,0
+Mozambique,2008,12,Aeromonas,0,0
+Mozambique,2009,1,Aeromonas,0,0
+Mozambique,2009,2,Aeromonas,0,0
+Mozambique,2009,3,Aeromonas,0,0
+Mozambique,2009,4,Aeromonas,0,0
+Mozambique,2009,5,Aeromonas,0,0
+Mozambique,2009,6,Aeromonas,0,0
+Mozambique,2009,7,Aeromonas,0,0
+Mozambique,2009,8,Aeromonas,0,0
+Mozambique,2009,9,Aeromonas,0,0
+Mozambique,2009,10,Aeromonas,0,0
+Mozambique,2009,11,Aeromonas,0,0
+Mozambique,2009,12,Aeromonas,0,0
+Mozambique,2010,1,Aeromonas,0,0
+Mozambique,2010,2,Aeromonas,4,0
+Mozambique,2010,3,Aeromonas,0,0
+Mozambique,2010,4,Aeromonas,4.5,0
+Mozambique,2010,5,Aeromonas,0,0
+Mozambique,2010,6,Aeromonas,0,0
+Mozambique,2010,7,Aeromonas,0,0
+Mozambique,2010,8,Aeromonas,0,0
+Mozambique,2010,9,Aeromonas,0,0
+Mozambique,2010,10,Aeromonas,0,0
+Mozambique,2010,11,Aeromonas,0,0
+Mozambique,2010,12,Aeromonas,0,0
+Mozambique,2007,12,C coli or jejuni,0,0
+Mozambique,2008,1,C coli or jejuni,0,0
+Mozambique,2008,2,C coli or jejuni,0,0
+Mozambique,2008,3,C coli or jejuni,2.485294,0
+Mozambique,2008,4,C coli or jejuni,1.666667,0
+Mozambique,2008,5,C coli or jejuni,1.428571,0
+Mozambique,2008,6,C coli or jejuni,0,0
+Mozambique,2008,7,C coli or jejuni,0,0
+Mozambique,2008,8,C coli or jejuni,1.875,0
+Mozambique,2008,9,C coli or jejuni,0,0
+Mozambique,2008,10,C coli or jejuni,3.095238,0
+Mozambique,2008,11,C coli or jejuni,3.333333,0
+Mozambique,2008,12,C coli or jejuni,1.285714,0
+Mozambique,2009,1,C coli or jejuni,0,0
+Mozambique,2009,2,C coli or jejuni,0,0
+Mozambique,2009,3,C coli or jejuni,0,0
+Mozambique,2009,4,C coli or jejuni,0,0
+Mozambique,2009,5,C coli or jejuni,0,0
+Mozambique,2009,6,C coli or jejuni,6,0
+Mozambique,2009,7,C coli or jejuni,1.25,0
+Mozambique,2009,8,C coli or jejuni,1.5,0
+Mozambique,2009,9,C coli or jejuni,0,0
+Mozambique,2009,10,C coli or jejuni,0,0
+Mozambique,2009,11,C coli or jejuni,2.642857,0
+Mozambique,2009,12,C coli or jejuni,0,0
+Mozambique,2010,1,C coli or jejuni,2.5,0
+Mozambique,2010,2,C coli or jejuni,0,0
+Mozambique,2010,3,C coli or jejuni,0,0
+Mozambique,2010,4,C coli or jejuni,4.5,0
+Mozambique,2010,5,C coli or jejuni,0,0
+Mozambique,2010,6,C coli or jejuni,1.8,0
+Mozambique,2010,7,C coli or jejuni,0,0
+Mozambique,2010,8,C coli or jejuni,0,0
+Mozambique,2010,9,C coli or jejuni,4,0
+Mozambique,2010,10,C coli or jejuni,0,0
+Mozambique,2010,11,C coli or jejuni,0,0
+Mozambique,2010,12,C coli or jejuni,0,0
+Mozambique,2007,12,Shigella,3.5,4.5
+Mozambique,2008,1,Shigella,4.685714,2.5
+Mozambique,2008,2,Shigella,3.942857,0
+Mozambique,2008,3,Shigella,3.901961,2.4
+Mozambique,2008,4,Shigella,1.666667,1.25
+Mozambique,2008,5,Shigella,0,0
+Mozambique,2008,6,Shigella,1.375,0
+Mozambique,2008,7,Shigella,0,0
+Mozambique,2008,8,Shigella,0,0
+Mozambique,2008,9,Shigella,0,4
+Mozambique,2008,10,Shigella,0,5.666667
+Mozambique,2008,11,Shigella,0,0
+Mozambique,2008,12,Shigella,0,0
+Mozambique,2009,1,Shigella,0,0
+Mozambique,2009,2,Shigella,0,0
+Mozambique,2009,3,Shigella,0,0
+Mozambique,2009,4,Shigella,0,0
+Mozambique,2009,5,Shigella,1,0
+Mozambique,2009,6,Shigella,0,0
+Mozambique,2009,7,Shigella,0,0
+Mozambique,2009,8,Shigella,0,1
+Mozambique,2009,9,Shigella,0,1
+Mozambique,2009,10,Shigella,0,3
+Mozambique,2009,11,Shigella,2.7,0
+Mozambique,2009,12,Shigella,0,1.833333
+Mozambique,2010,1,Shigella,2.75,3
+Mozambique,2010,2,Shigella,0,0
+Mozambique,2010,3,Shigella,0,0
+Mozambique,2010,4,Shigella,2.5,0
+Mozambique,2010,5,Shigella,0,0
+Mozambique,2010,6,Shigella,0,0
+Mozambique,2010,7,Shigella,0,0
+Mozambique,2010,8,Shigella,0,0
+Mozambique,2010,9,Shigella,2.5,0
+Mozambique,2010,10,Shigella,0,0
+Mozambique,2010,11,Shigella,2,2.5
+Mozambique,2010,12,Shigella,0,2.5
+Mozambique,2007,12,V cholerae,0,0
+Mozambique,2008,1,V cholerae,3.636364,13.78571
+Mozambique,2008,2,V cholerae,0,1
+Mozambique,2008,3,V cholerae,2.666667,0
+Mozambique,2008,4,V cholerae,1.666667,0
+Mozambique,2008,5,V cholerae,0,0
+Mozambique,2008,6,V cholerae,0,0
+Mozambique,2008,7,V cholerae,0,0
+Mozambique,2008,8,V cholerae,0,0
+Mozambique,2008,9,V cholerae,0,0
+Mozambique,2008,10,V cholerae,0,0
+Mozambique,2008,11,V cholerae,0,0
+Mozambique,2008,12,V cholerae,0,0
+Mozambique,2009,1,V cholerae,0,0
+Mozambique,2009,2,V cholerae,0,3
+Mozambique,2009,3,V cholerae,2.666667,0
+Mozambique,2009,4,V cholerae,0,0
+Mozambique,2009,5,V cholerae,0,0
+Mozambique,2009,6,V cholerae,0,0
+Mozambique,2009,7,V cholerae,0,0
+Mozambique,2009,8,V cholerae,0,0
+Mozambique,2009,9,V cholerae,0,0
+Mozambique,2009,10,V cholerae,0,0
+Mozambique,2009,11,V cholerae,0,0
+Mozambique,2009,12,V cholerae,0,0
+Mozambique,2010,1,V cholerae,0,0
+Mozambique,2010,2,V cholerae,0,0
+Mozambique,2010,3,V cholerae,0,0
+Mozambique,2010,4,V cholerae,0,0
+Mozambique,2010,5,V cholerae,0,0
+Mozambique,2010,6,V cholerae,0,0
+Mozambique,2010,7,V cholerae,0,0
+Mozambique,2010,8,V cholerae,0,0
+Mozambique,2010,9,V cholerae,0,0
+Mozambique,2010,10,V cholerae,0,0
+Mozambique,2010,11,V cholerae,0,0
+Mozambique,2010,12,V cholerae,0,0
+Mozambique,2007,12,ETEC ST,10.83333,0
+Mozambique,2008,1,ETEC ST,11.54026,1.571429
+Mozambique,2008,2,ETEC ST,3.920833,1
+Mozambique,2008,3,ETEC ST,1.235294,0
+Mozambique,2008,4,ETEC ST,1.454545,1.25
+Mozambique,2008,5,ETEC ST,0,0
+Mozambique,2008,6,ETEC ST,3,0
+Mozambique,2008,7,ETEC ST,0,0
+Mozambique,2008,8,ETEC ST,1.875,0
+Mozambique,2008,9,ETEC ST,2,0
+Mozambique,2008,10,ETEC ST,1.75,0
+Mozambique,2008,11,ETEC ST,1.6,2.5
+Mozambique,2008,12,ETEC ST,21.48571,1.666667
+Mozambique,2009,1,ETEC ST,6.666667,0
+Mozambique,2009,2,ETEC ST,0,0
+Mozambique,2009,3,ETEC ST,2.666667,0
+Mozambique,2009,4,ETEC ST,0,0
+Mozambique,2009,5,ETEC ST,1.5,0
+Mozambique,2009,6,ETEC ST,0,0
+Mozambique,2009,7,ETEC ST,0,0
+Mozambique,2009,8,ETEC ST,0,0
+Mozambique,2009,9,ETEC ST,0,0
+Mozambique,2009,10,ETEC ST,0,0
+Mozambique,2009,11,ETEC ST,1.2,0
+Mozambique,2009,12,ETEC ST,2.5,0
+Mozambique,2010,1,ETEC ST,9.72619,7.666667
+Mozambique,2010,2,ETEC ST,12,0
+Mozambique,2010,3,ETEC ST,2.2,0
+Mozambique,2010,4,ETEC ST,0,0
+Mozambique,2010,5,ETEC ST,0,0
+Mozambique,2010,6,ETEC ST,0,0
+Mozambique,2010,7,ETEC ST,0,0
+Mozambique,2010,8,ETEC ST,1.666667,0
+Mozambique,2010,9,ETEC ST,0,0
+Mozambique,2010,10,ETEC ST,0,0
+Mozambique,2010,11,ETEC ST,0,0
+Mozambique,2010,12,ETEC ST,8,0
+Mozambique,2007,12,tEPEC,3.5,0
+Mozambique,2008,1,tEPEC,11.77374,0
+Mozambique,2008,2,tEPEC,5.395833,0
+Mozambique,2008,3,tEPEC,7.863445,2.45
+Mozambique,2008,4,tEPEC,4.363636,0
+Mozambique,2008,5,tEPEC,3.5,0
+Mozambique,2008,6,tEPEC,1.375,0
+Mozambique,2008,7,tEPEC,1.875,0
+Mozambique,2008,8,tEPEC,1.875,0
+Mozambique,2008,9,tEPEC,1,0
+Mozambique,2008,10,tEPEC,2.4,1
+Mozambique,2008,11,tEPEC,6.166667,0
+Mozambique,2008,12,tEPEC,4.771429,0
+Mozambique,2009,1,tEPEC,2.6,0
+Mozambique,2009,2,tEPEC,9.15,0
+Mozambique,2009,3,tEPEC,0,0
+Mozambique,2009,4,tEPEC,2.5,0
+Mozambique,2009,5,tEPEC,2,0
+Mozambique,2009,6,tEPEC,0,0
+Mozambique,2009,7,tEPEC,0,0
+Mozambique,2009,8,tEPEC,0,0
+Mozambique,2009,9,tEPEC,0,0
+Mozambique,2009,10,tEPEC,1.142857,0
+Mozambique,2009,11,tEPEC,3.342857,2.5
+Mozambique,2009,12,tEPEC,1.5,0
+Mozambique,2010,1,tEPEC,1.142857,0
+Mozambique,2010,2,tEPEC,2.5,0
+Mozambique,2010,3,tEPEC,8.6,0
+Mozambique,2010,4,tEPEC,0,0
+Mozambique,2010,5,tEPEC,2,0
+Mozambique,2010,6,tEPEC,1.8,0
+Mozambique,2010,7,tEPEC,0,0
+Mozambique,2010,8,tEPEC,0,0
+Mozambique,2010,9,tEPEC,0,0
+Mozambique,2010,10,tEPEC,0,0
+Mozambique,2010,11,tEPEC,1.666667,0
+Mozambique,2010,12,tEPEC,1.666667,2
+Mozambique,2007,12,EAEC,21.94444,2.25
+Mozambique,2008,1,EAEC,18.51486,4.714286
+Mozambique,2008,2,EAEC,20.1119,2
+Mozambique,2008,3,EAEC,25.0049,1.2
+Mozambique,2008,4,EAEC,13.98485,1.25
+Mozambique,2008,5,EAEC,16.71429,2
+Mozambique,2008,6,EAEC,6.083333,0
+Mozambique,2008,7,EAEC,11.875,0
+Mozambique,2008,8,EAEC,4.875,0
+Mozambique,2008,9,EAEC,2.4,0
+Mozambique,2008,10,EAEC,17.48571,5.666667
+Mozambique,2008,11,EAEC,4.171429,4.166667
+Mozambique,2008,12,EAEC,11.42143,3.333333
+Mozambique,2009,1,EAEC,7.6,0
+Mozambique,2009,2,EAEC,8.566667,3
+Mozambique,2009,3,EAEC,9,5
+Mozambique,2009,4,EAEC,3.666667,0
+Mozambique,2009,5,EAEC,5.888889,2.333333
+Mozambique,2009,6,EAEC,18.19444,0
+Mozambique,2009,7,EAEC,4.5,0
+Mozambique,2009,8,EAEC,1.5,0
+Mozambique,2009,9,EAEC,1,3
+Mozambique,2009,10,EAEC,5,0
+Mozambique,2009,11,EAEC,7.142857,0
+Mozambique,2009,12,EAEC,13,0
+Mozambique,2010,1,EAEC,4.785714,4
+Mozambique,2010,2,EAEC,9.2,0
+Mozambique,2010,3,EAEC,8.466667,1
+Mozambique,2010,4,EAEC,6.5,0
+Mozambique,2010,5,EAEC,4,0
+Mozambique,2010,6,EAEC,1.5,0
+Mozambique,2010,7,EAEC,6,0
+Mozambique,2010,8,EAEC,10.66667,0
+Mozambique,2010,9,EAEC,4,0
+Mozambique,2010,10,EAEC,4.5,0
+Mozambique,2010,11,EAEC,3.166667,0
+Mozambique,2010,12,EAEC,3.333333,0
+Mozambique,2007,12,Cryptosporidium,14.44444,2.25
+Mozambique,2008,1,Cryptosporidium,6.088889,1.571429
+Mozambique,2008,2,Cryptosporidium,7.53869,0
+Mozambique,2008,3,Cryptosporidium,8.955882,0
+Mozambique,2008,4,Cryptosporidium,2.909091,0
+Mozambique,2008,5,Cryptosporidium,3.833333,0
+Mozambique,2008,6,Cryptosporidium,2.75,0
+Mozambique,2008,7,Cryptosporidium,4.875,0
+Mozambique,2008,8,Cryptosporidium,1,0
+Mozambique,2008,9,Cryptosporidium,2.4,0
+Mozambique,2008,10,Cryptosporidium,3.828571,0
+Mozambique,2008,11,Cryptosporidium,1.285714,0
+Mozambique,2008,12,Cryptosporidium,17.9,0
+Mozambique,2009,1,Cryptosporidium,11.1,2.5
+Mozambique,2009,2,Cryptosporidium,12.28333,0
+Mozambique,2009,3,Cryptosporidium,10,0
+Mozambique,2009,4,Cryptosporidium,0,0
+Mozambique,2009,5,Cryptosporidium,2.5,0
+Mozambique,2009,6,Cryptosporidium,1,0
+Mozambique,2009,7,Cryptosporidium,6.166667,0
+Mozambique,2009,8,Cryptosporidium,5.5,0
+Mozambique,2009,9,Cryptosporidium,0,0
+Mozambique,2009,10,Cryptosporidium,0,0
+Mozambique,2009,11,Cryptosporidium,7.25,6
+Mozambique,2009,12,Cryptosporidium,6,1.833333
+Mozambique,2010,1,Cryptosporidium,11.14286,0
+Mozambique,2010,2,Cryptosporidium,14.95,3.5
+Mozambique,2010,3,Cryptosporidium,14.86667,1
+Mozambique,2010,4,Cryptosporidium,4,0
+Mozambique,2010,5,Cryptosporidium,4,0
+Mozambique,2010,6,Cryptosporidium,6.9,0
+Mozambique,2010,7,Cryptosporidium,2,0
+Mozambique,2010,8,Cryptosporidium,0,0
+Mozambique,2010,9,Cryptosporidium,4,0
+Mozambique,2010,10,Cryptosporidium,0,0
+Mozambique,2010,11,Cryptosporidium,3.166667,0
+Mozambique,2010,12,Cryptosporidium,1.666667,0
+Mozambique,2007,12,Rotavirus,10.83333,0
+Mozambique,2008,1,Rotavirus,1.888889,0
+Mozambique,2008,2,Rotavirus,9.005682,0
+Mozambique,2008,3,Rotavirus,6.220588,1.2
+Mozambique,2008,4,Rotavirus,21.84091,1
+Mozambique,2008,5,Rotavirus,20.07143,0
+Mozambique,2008,6,Rotavirus,18.83333,0
+Mozambique,2008,7,Rotavirus,31.25,1
+Mozambique,2008,8,Rotavirus,5.875,0
+Mozambique,2008,9,Rotavirus,5.066667,0
+Mozambique,2008,10,Rotavirus,5.733333,0
+Mozambique,2008,11,Rotavirus,8.666667,1.666667
+Mozambique,2008,12,Rotavirus,2.25,0
+Mozambique,2009,1,Rotavirus,2.6,0
+Mozambique,2009,2,Rotavirus,0,0
+Mozambique,2009,3,Rotavirus,0,0
+Mozambique,2009,4,Rotavirus,0,0
+Mozambique,2009,5,Rotavirus,1.444444,0
+Mozambique,2009,6,Rotavirus,45.19444,0
+Mozambique,2009,7,Rotavirus,24,0
+Mozambique,2009,8,Rotavirus,4.5,0
+Mozambique,2009,9,Rotavirus,1,0
+Mozambique,2009,10,Rotavirus,15.64286,4
+Mozambique,2009,11,Rotavirus,18.87857,1
+Mozambique,2009,12,Rotavirus,16.33333,0
+Mozambique,2010,1,Rotavirus,6.785714,0
+Mozambique,2010,2,Rotavirus,11.35,0
+Mozambique,2010,3,Rotavirus,8.2,1
+Mozambique,2010,4,Rotavirus,6.5,0
+Mozambique,2010,5,Rotavirus,7.5,0
+Mozambique,2010,6,Rotavirus,10.2,0
+Mozambique,2010,7,Rotavirus,6,0
+Mozambique,2010,8,Rotavirus,1.666667,0
+Mozambique,2010,9,Rotavirus,0,0
+Mozambique,2010,10,Rotavirus,2.5,2
+Mozambique,2010,11,Rotavirus,9.166667,0
+Mozambique,2010,12,Rotavirus,11.16667,2
+Mozambique,2007,12,Norovirus GI,3.5,2.5
+Mozambique,2008,1,Norovirus GI,0,0
+Mozambique,2008,2,Norovirus GI,0,0
+Mozambique,2008,3,Norovirus GI,0,0
+Mozambique,2008,4,Norovirus GI,1.666667,0
+Mozambique,2008,5,Norovirus GI,0,0
+Mozambique,2008,6,Norovirus GI,0,0
+Mozambique,2008,7,Norovirus GI,0,0
+Mozambique,2008,8,Norovirus GI,0,0
+Mozambique,2008,9,Norovirus GI,2.533333,0
+Mozambique,2008,10,Norovirus GI,0,1.666667
+Mozambique,2008,11,Norovirus GI,3.952381,0
+Mozambique,2008,12,Norovirus GI,0,0
+Mozambique,2009,1,Norovirus GI,1.666667,0
+Mozambique,2009,2,Norovirus GI,0,0
+Mozambique,2009,3,Norovirus GI,0,0
+Mozambique,2009,4,Norovirus GI,0,0
+Mozambique,2009,5,Norovirus GI,0,0
+Mozambique,2009,6,Norovirus GI,2,0
+Mozambique,2009,7,Norovirus GI,0,0
+Mozambique,2009,8,Norovirus GI,0,0
+Mozambique,2009,9,Norovirus GI,0,0
+Mozambique,2009,10,Norovirus GI,0,0
+Mozambique,2009,11,Norovirus GI,0,0
+Mozambique,2009,12,Norovirus GI,0,0
+Mozambique,2010,1,Norovirus GI,0,0
+Mozambique,2010,2,Norovirus GI,0,0
+Mozambique,2010,3,Norovirus GI,0,0
+Mozambique,2010,4,Norovirus GI,0,0
+Mozambique,2010,5,Norovirus GI,0,0
+Mozambique,2010,6,Norovirus GI,0,0
+Mozambique,2010,7,Norovirus GI,0,0
+Mozambique,2010,8,Norovirus GI,0,0
+Mozambique,2010,9,Norovirus GI,0,0
+Mozambique,2010,10,Norovirus GI,0,0
+Mozambique,2010,11,Norovirus GI,0,0
+Mozambique,2010,12,Norovirus GI,0,0
+Mozambique,2007,12,Norovirus GII,0,0
+Mozambique,2008,1,Norovirus GII,1.4,2.5
+Mozambique,2008,2,Norovirus GII,1.4375,0
+Mozambique,2008,3,Norovirus GII,4,0
+Mozambique,2008,4,Norovirus GII,0,0
+Mozambique,2008,5,Norovirus GII,0,0
+Mozambique,2008,6,Norovirus GII,0,0
+Mozambique,2008,7,Norovirus GII,2,0
+Mozambique,2008,8,Norovirus GII,0,0
+Mozambique,2008,9,Norovirus GII,2.2,4
+Mozambique,2008,10,Norovirus GII,1.666667,0
+Mozambique,2008,11,Norovirus GII,4.933333,0
+Mozambique,2008,12,Norovirus GII,12.48571,0
+Mozambique,2009,1,Norovirus GII,2.6,0
+Mozambique,2009,2,Norovirus GII,0,0
+Mozambique,2009,3,Norovirus GII,0,0
+Mozambique,2009,4,Norovirus GII,0,0
+Mozambique,2009,5,Norovirus GII,0,0
+Mozambique,2009,6,Norovirus GII,0,0
+Mozambique,2009,7,Norovirus GII,0,0
+Mozambique,2009,8,Norovirus GII,0,0
+Mozambique,2009,9,Norovirus GII,0,0
+Mozambique,2009,10,Norovirus GII,0,0
+Mozambique,2009,11,Norovirus GII,0,0
+Mozambique,2009,12,Norovirus GII,0,0
+Mozambique,2010,1,Norovirus GII,1.333333,0
+Mozambique,2010,2,Norovirus GII,0,0
+Mozambique,2010,3,Norovirus GII,0,0
+Mozambique,2010,4,Norovirus GII,0,0
+Mozambique,2010,5,Norovirus GII,0,0
+Mozambique,2010,6,Norovirus GII,0,0
+Mozambique,2010,7,Norovirus GII,0,0
+Mozambique,2010,8,Norovirus GII,0,0
+Mozambique,2010,9,Norovirus GII,4,0
+Mozambique,2010,10,Norovirus GII,0,0
+Mozambique,2010,11,Norovirus GII,2,0
+Mozambique,2010,12,Norovirus GII,0,0
+Mozambique,2007,12,Adenovirus 40/41,5.388889,0
+Mozambique,2008,1,Adenovirus 40/41,0,0
+Mozambique,2008,2,Adenovirus 40/41,0,0
+Mozambique,2008,3,Adenovirus 40/41,1.235294,0
+Mozambique,2008,4,Adenovirus 40/41,0,0
+Mozambique,2008,5,Adenovirus 40/41,0,0
+Mozambique,2008,6,Adenovirus 40/41,0,0
+Mozambique,2008,7,Adenovirus 40/41,0,0
+Mozambique,2008,8,Adenovirus 40/41,0,0
+Mozambique,2008,9,Adenovirus 40/41,0,0
+Mozambique,2008,10,Adenovirus 40/41,3.095238,0
+Mozambique,2008,11,Adenovirus 40/41,0,0
+Mozambique,2008,12,Adenovirus 40/41,0,0
+Mozambique,2009,1,Adenovirus 40/41,0,0
+Mozambique,2009,2,Adenovirus 40/41,0,0
+Mozambique,2009,3,Adenovirus 40/41,0,0
+Mozambique,2009,4,Adenovirus 40/41,0,0
+Mozambique,2009,5,Adenovirus 40/41,0,0
+Mozambique,2009,6,Adenovirus 40/41,0,0
+Mozambique,2009,7,Adenovirus 40/41,0,0
+Mozambique,2009,8,Adenovirus 40/41,0,0
+Mozambique,2009,9,Adenovirus 40/41,0,0
+Mozambique,2009,10,Adenovirus 40/41,0,0
+Mozambique,2009,11,Adenovirus 40/41,0,0
+Mozambique,2009,12,Adenovirus 40/41,4,0
+Mozambique,2010,1,Adenovirus 40/41,3.642857,0
+Mozambique,2010,2,Adenovirus 40/41,4,0
+Mozambique,2010,3,Adenovirus 40/41,0,0
+Mozambique,2010,4,Adenovirus 40/41,0,0
+Mozambique,2010,5,Adenovirus 40/41,0,0
+Mozambique,2010,6,Adenovirus 40/41,0,0
+Mozambique,2010,7,Adenovirus 40/41,0,0
+Mozambique,2010,8,Adenovirus 40/41,2,0
+Mozambique,2010,9,Adenovirus 40/41,0,0
+Mozambique,2010,10,Adenovirus 40/41,0,0
+Mozambique,2010,11,Adenovirus 40/41,0,0
+Mozambique,2010,12,Adenovirus 40/41,9.666667,0
+Kenya,2008,1,all MSD,5.6,0
+Kenya,2008,2,all MSD,123.5071,20.66667
+Kenya,2008,3,all MSD,64.89286,16.58333
+Kenya,2008,4,all MSD,52.4,17.19444
+Kenya,2008,5,all MSD,70.8,16.55556
+Kenya,2008,6,all MSD,53.8,14
+Kenya,2008,7,all MSD,59.2381,21
+Kenya,2008,8,all MSD,48.21429,20
+Kenya,2008,9,all MSD,55.24762,21
+Kenya,2008,10,all MSD,57.85556,19
+Kenya,2008,11,all MSD,48.04444,10
+Kenya,2008,12,all MSD,56.4,19
+Kenya,2009,1,all MSD,40.43269,16.33333
+Kenya,2009,2,all MSD,58.06731,11.95238
+Kenya,2009,3,all MSD,43.25,16.93651
+Kenya,2009,4,all MSD,42.69444,23.77778
+Kenya,2009,5,all MSD,44.55556,20
+Kenya,2009,6,all MSD,61.66667,13
+Kenya,2009,7,all MSD,50.90476,5
+Kenya,2009,8,all MSD,35.45714,11
+Kenya,2009,9,all MSD,29.6381,16
+Kenya,2009,10,all MSD,35.86111,9
+Kenya,2009,11,all MSD,35.97222,13.85714
+Kenya,2009,12,all MSD,26.5,6.142857
+Kenya,2010,1,all MSD,47.9,16.33333
+Kenya,2010,2,all MSD,44.44091,18.06667
+Kenya,2010,3,all MSD,29.65909,8.6
+Kenya,2010,4,all MSD,25.2,7
+Kenya,2010,5,all MSD,35.8,9.75
+Kenya,2010,6,all MSD,15,5.25
+Kenya,2010,7,all MSD,14,6
+Kenya,2010,8,all MSD,34.75,8
+Kenya,2010,9,all MSD,34.41667,7
+Kenya,2010,10,all MSD,22.83333,9
+Kenya,2010,11,all MSD,24,13
+Kenya,2010,12,all MSD,21.11111,7
+Kenya,2011,1,all MSD,39.88889,6
+Kenya,2008,1,Aeromonas,0,0
+Kenya,2008,2,Aeromonas,0,1.333333
+Kenya,2008,3,Aeromonas,0,0
+Kenya,2008,4,Aeromonas,0,0
+Kenya,2008,5,Aeromonas,0,0
+Kenya,2008,6,Aeromonas,0,0
+Kenya,2008,7,Aeromonas,0,0
+Kenya,2008,8,Aeromonas,0,0
+Kenya,2008,9,Aeromonas,0,0
+Kenya,2008,10,Aeromonas,0,0
+Kenya,2008,11,Aeromonas,0,0
+Kenya,2008,12,Aeromonas,0,0
+Kenya,2009,1,Aeromonas,0,0
+Kenya,2009,2,Aeromonas,0,0
+Kenya,2009,3,Aeromonas,0,0
+Kenya,2009,4,Aeromonas,0,0
+Kenya,2009,5,Aeromonas,0,0
+Kenya,2009,6,Aeromonas,0,0
+Kenya,2009,7,Aeromonas,0,0
+Kenya,2009,8,Aeromonas,0,0
+Kenya,2009,9,Aeromonas,0,0
+Kenya,2009,10,Aeromonas,0,0
+Kenya,2009,11,Aeromonas,0,0
+Kenya,2009,12,Aeromonas,0,0
+Kenya,2010,1,Aeromonas,0,0
+Kenya,2010,2,Aeromonas,0,0
+Kenya,2010,3,Aeromonas,0,0
+Kenya,2010,4,Aeromonas,0,0
+Kenya,2010,5,Aeromonas,0,0
+Kenya,2010,6,Aeromonas,0,0
+Kenya,2010,7,Aeromonas,0,0
+Kenya,2010,8,Aeromonas,0,0
+Kenya,2010,9,Aeromonas,0,0
+Kenya,2010,10,Aeromonas,0,0
+Kenya,2010,11,Aeromonas,0,0
+Kenya,2010,12,Aeromonas,0,0
+Kenya,2011,1,Aeromonas,0,0
+Kenya,2008,1,C coli or jejuni,0,0
+Kenya,2008,2,C coli or jejuni,21.81948,6.875
+Kenya,2008,3,C coli or jejuni,4.125,1.333333
+Kenya,2008,4,C coli or jejuni,5.2,2
+Kenya,2008,5,C coli or jejuni,12.57105,2.2
+Kenya,2008,6,C coli or jejuni,8.5,1.5
+Kenya,2008,7,C coli or jejuni,10.33182,1
+Kenya,2008,8,C coli or jejuni,13.64286,4.333333
+Kenya,2008,9,C coli or jejuni,14.06667,1.222222
+Kenya,2008,10,C coli or jejuni,6.753968,0
+Kenya,2008,11,C coli or jejuni,6.646465,0
+Kenya,2008,12,C coli or jejuni,3.6,1
+Kenya,2009,1,C coli or jejuni,7.507692,4.166667
+Kenya,2009,2,C coli or jejuni,11.68269,0
+Kenya,2009,3,C coli or jejuni,0,3.971429
+Kenya,2009,4,C coli or jejuni,6.2,3.222222
+Kenya,2009,5,C coli or jejuni,2.5,2.5
+Kenya,2009,6,C coli or jejuni,5.025,0
+Kenya,2009,7,C coli or jejuni,1.875,0
+Kenya,2009,8,C coli or jejuni,3.142857,0
+Kenya,2009,9,C coli or jejuni,1.5,1.2
+Kenya,2009,10,C coli or jejuni,1,0
+Kenya,2009,11,C coli or jejuni,4.366667,0
+Kenya,2009,12,C coli or jejuni,4,0
+Kenya,2010,1,C coli or jejuni,13.47727,1.333333
+Kenya,2010,2,C coli or jejuni,11.36111,4
+Kenya,2010,3,C coli or jejuni,3.431818,0
+Kenya,2010,4,C coli or jejuni,5.2,0
+Kenya,2010,5,C coli or jejuni,8.107937,1.25
+Kenya,2010,6,C coli or jejuni,6,1
+Kenya,2010,7,C coli or jejuni,3,0
+Kenya,2010,8,C coli or jejuni,7.198485,5.666667
+Kenya,2010,9,C coli or jejuni,10,0
+Kenya,2010,10,C coli or jejuni,3.666667,0
+Kenya,2010,11,C coli or jejuni,2.666667,2
+Kenya,2010,12,C coli or jejuni,4.888889,0
+Kenya,2011,1,C coli or jejuni,4.977778,1
+Kenya,2008,1,Shigella,0,0
+Kenya,2008,2,Shigella,12.52424,6.883333
+Kenya,2008,3,Shigella,6.741071,4
+Kenya,2008,4,Shigella,3.45,0
+Kenya,2008,5,Shigella,2.460526,3.311111
+Kenya,2008,6,Shigella,2.5,0
+Kenya,2008,7,Shigella,1.136364,1
+Kenya,2008,8,Shigella,1.857143,2.666667
+Kenya,2008,9,Shigella,1.4,0
+Kenya,2008,10,Shigella,7.733333,1
+Kenya,2008,11,Shigella,3.345455,0
+Kenya,2008,12,Shigella,0,1
+Kenya,2009,1,Shigella,1.666667,0
+Kenya,2009,2,Shigella,2.820513,2
+Kenya,2009,3,Shigella,5.716667,6.48254
+Kenya,2009,4,Shigella,0,2.222222
+Kenya,2009,5,Shigella,1,2.5
+Kenya,2009,6,Shigella,7.191667,0
+Kenya,2009,7,Shigella,4.375,0
+Kenya,2009,8,Shigella,0,0
+Kenya,2009,9,Shigella,0,1
+Kenya,2009,10,Shigella,1,1.5
+Kenya,2009,11,Shigella,1.166667,0
+Kenya,2009,12,Shigella,0,1
+Kenya,2010,1,Shigella,1.1,1.428571
+Kenya,2010,2,Shigella,2.811111,3.866667
+Kenya,2010,3,Shigella,1.333333,0
+Kenya,2010,4,Shigella,3.6,1
+Kenya,2010,5,Shigella,3.111111,5
+Kenya,2010,6,Shigella,1,0
+Kenya,2010,7,Shigella,0,3.666667
+Kenya,2010,8,Shigella,1.181818,1
+Kenya,2010,9,Shigella,3.5,0
+Kenya,2010,10,Shigella,0,0
+Kenya,2010,11,Shigella,3.666667,0
+Kenya,2010,12,Shigella,1,0
+Kenya,2011,1,Shigella,0,1
+Kenya,2008,1,V cholerae,0,0
+Kenya,2008,2,V cholerae,0,0
+Kenya,2008,3,V cholerae,0,0
+Kenya,2008,4,V cholerae,0,0
+Kenya,2008,5,V cholerae,0,0
+Kenya,2008,6,V cholerae,0,1.5
+Kenya,2008,7,V cholerae,0,0
+Kenya,2008,8,V cholerae,0,0
+Kenya,2008,9,V cholerae,0,0
+Kenya,2008,10,V cholerae,0,0
+Kenya,2008,11,V cholerae,0,0
+Kenya,2008,12,V cholerae,0,0
+Kenya,2009,1,V cholerae,0,0
+Kenya,2009,2,V cholerae,0,0
+Kenya,2009,3,V cholerae,0,0
+Kenya,2009,4,V cholerae,0,0
+Kenya,2009,5,V cholerae,0,0
+Kenya,2009,6,V cholerae,0,0
+Kenya,2009,7,V cholerae,0,0
+Kenya,2009,8,V cholerae,0,0
+Kenya,2009,9,V cholerae,0,0
+Kenya,2009,10,V cholerae,2.805556,1
+Kenya,2009,11,V cholerae,0,1
+Kenya,2009,12,V cholerae,1.5,0
+Kenya,2010,1,V cholerae,0,0
+Kenya,2010,2,V cholerae,1.111111,0
+Kenya,2010,3,V cholerae,0,0
+Kenya,2010,4,V cholerae,0,0
+Kenya,2010,5,V cholerae,0,0
+Kenya,2010,6,V cholerae,0,0
+Kenya,2010,7,V cholerae,0,0
+Kenya,2010,8,V cholerae,0,0
+Kenya,2010,9,V cholerae,0,0
+Kenya,2010,10,V cholerae,0,0
+Kenya,2010,11,V cholerae,0,0
+Kenya,2010,12,V cholerae,0,0
+Kenya,2011,1,V cholerae,0,0
+Kenya,2008,1,ETEC ST,2.8,0
+Kenya,2008,2,ETEC ST,23.98241,6.858333
+Kenya,2008,3,ETEC ST,11.31845,2.583333
+Kenya,2008,4,ETEC ST,1.166667,3.125
+Kenya,2008,5,ETEC ST,1.210526,1.111111
+Kenya,2008,6,ETEC ST,5.535714,1
+Kenya,2008,7,ETEC ST,4.656061,0
+Kenya,2008,8,ETEC ST,0,1
+Kenya,2008,9,ETEC ST,3.288889,0
+Kenya,2008,10,ETEC ST,6.4,1.166667
+Kenya,2008,11,ETEC ST,1.545455,1.2
+Kenya,2008,12,ETEC ST,3.371429,0
+Kenya,2009,1,ETEC ST,2.453846,1.166667
+Kenya,2009,2,ETEC ST,9.5,1.166667
+Kenya,2009,3,ETEC ST,10.60833,1.4
+Kenya,2009,4,ETEC ST,3.2,0
+Kenya,2009,5,ETEC ST,9,2
+Kenya,2009,6,ETEC ST,13.05833,1
+Kenya,2009,7,ETEC ST,3.833333,0
+Kenya,2009,8,ETEC ST,1.571429,0
+Kenya,2009,9,ETEC ST,4.142857,0
+Kenya,2009,10,ETEC ST,2.555556,0
+Kenya,2009,11,ETEC ST,1.5,0
+Kenya,2009,12,ETEC ST,1.25,0
+Kenya,2010,1,ETEC ST,5.35,2.857143
+Kenya,2010,2,ETEC ST,9.061111,1.333333
+Kenya,2010,3,ETEC ST,1.25,0
+Kenya,2010,4,ETEC ST,4.1,1
+Kenya,2010,5,ETEC ST,3.507937,0
+Kenya,2010,6,ETEC ST,1,2
+Kenya,2010,7,ETEC ST,0,0
+Kenya,2010,8,ETEC ST,1.181818,0
+Kenya,2010,9,ETEC ST,0,0
+Kenya,2010,10,ETEC ST,1.5,0
+Kenya,2010,11,ETEC ST,3.2,2
+Kenya,2010,12,ETEC ST,2.888889,0
+Kenya,2011,1,ETEC ST,3.2,0
+Kenya,2008,1,tEPEC,0,0
+Kenya,2008,2,tEPEC,11.2619,0
+Kenya,2008,3,tEPEC,7.553571,0
+Kenya,2008,4,tEPEC,8.333333,0
+Kenya,2008,5,tEPEC,6.010526,0
+Kenya,2008,6,tEPEC,7.071429,2.5
+Kenya,2008,7,tEPEC,4.136364,2
+Kenya,2008,8,tEPEC,5.714286,0
+Kenya,2008,9,tEPEC,0,1.222222
+Kenya,2008,10,tEPEC,1.666667,0
+Kenya,2008,11,tEPEC,1.545455,0
+Kenya,2008,12,tEPEC,10.8381,0
+Kenya,2009,1,tEPEC,6.757143,1.166667
+Kenya,2009,2,tEPEC,12.21154,2.452381
+Kenya,2009,3,tEPEC,4.541667,0
+Kenya,2009,4,tEPEC,5.277778,1.428571
+Kenya,2009,5,tEPEC,10.27778,1
+Kenya,2009,6,tEPEC,7.366667,1
+Kenya,2009,7,tEPEC,4,0
+Kenya,2009,8,tEPEC,1.571429,0
+Kenya,2009,9,tEPEC,3.666667,0
+Kenya,2009,10,tEPEC,0,0
+Kenya,2009,11,tEPEC,4.755556,2.142857
+Kenya,2009,12,tEPEC,3.1,0
+Kenya,2010,1,tEPEC,2.920455,0
+Kenya,2010,2,tEPEC,1.1,0
+Kenya,2010,3,tEPEC,1.090909,0
+Kenya,2010,4,tEPEC,1,1
+Kenya,2010,5,tEPEC,2.285714,0
+Kenya,2010,6,tEPEC,1,1
+Kenya,2010,7,tEPEC,1,0
+Kenya,2010,8,tEPEC,0,0
+Kenya,2010,9,tEPEC,0,0
+Kenya,2010,10,tEPEC,2,1.333333
+Kenya,2010,11,tEPEC,5.766667,0
+Kenya,2010,12,tEPEC,0,0
+Kenya,2011,1,tEPEC,5.888889,0
+Kenya,2008,1,EAEC,0,0
+Kenya,2008,2,EAEC,27.25427,1.4
+Kenya,2008,3,EAEC,14.45536,1.333333
+Kenya,2008,4,EAEC,5.5,1.125
+Kenya,2008,5,EAEC,9.942105,1.2
+Kenya,2008,6,EAEC,14.32143,2
+Kenya,2008,7,EAEC,14.43355,0
+Kenya,2008,8,EAEC,10.5,4.333333
+Kenya,2008,9,EAEC,15.95397,2
+Kenya,2008,10,EAEC,13.97619,2.166667
+Kenya,2008,11,EAEC,12.00202,1.2
+Kenya,2008,12,EAEC,20.13452,1.75
+Kenya,2009,1,EAEC,6.314286,1.25
+Kenya,2009,2,EAEC,8.208333,0
+Kenya,2009,3,EAEC,4.416667,1.4
+Kenya,2009,4,EAEC,6.227778,0
+Kenya,2009,5,EAEC,3,0
+Kenya,2009,6,EAEC,7.366667,0
+Kenya,2009,7,EAEC,5.75,1.5
+Kenya,2009,8,EAEC,0,3.2
+Kenya,2009,9,EAEC,2.642857,0
+Kenya,2009,10,EAEC,8,0
+Kenya,2009,11,EAEC,3.533333,0
+Kenya,2009,12,EAEC,5.1,0
+Kenya,2010,1,EAEC,6.090909,6.785714
+Kenya,2010,2,EAEC,4.422222,2.533333
+Kenya,2010,3,EAEC,5.515152,0
+Kenya,2010,4,EAEC,4.7,0
+Kenya,2010,5,EAEC,4.996825,0
+Kenya,2010,6,EAEC,2,0
+Kenya,2010,7,EAEC,0,1.333333
+Kenya,2010,8,EAEC,6.348485,1
+Kenya,2010,9,EAEC,6.333333,0
+Kenya,2010,10,EAEC,2.222222,0
+Kenya,2010,11,EAEC,1.6,2
+Kenya,2010,12,EAEC,5.666667,0
+Kenya,2011,1,EAEC,7.422222,1
+Kenya,2008,1,Cryptosporidium,0,0
+Kenya,2008,2,Cryptosporidium,19.12527,0
+Kenya,2008,3,Cryptosporidium,16.41369,1.125
+Kenya,2008,4,Cryptosporidium,5.083333,1.125
+Kenya,2008,5,Cryptosporidium,9.552632,0
+Kenya,2008,6,Cryptosporidium,9.7,1.5
+Kenya,2008,7,Cryptosporidium,7.542424,1
+Kenya,2008,8,Cryptosporidium,5.214286,1
+Kenya,2008,9,Cryptosporidium,0,0
+Kenya,2008,10,Cryptosporidium,4.166667,0
+Kenya,2008,11,Cryptosporidium,0,0
+Kenya,2008,12,Cryptosporidium,7.654762,2.75
+Kenya,2009,1,Cryptosporidium,0,0
+Kenya,2009,2,Cryptosporidium,1.416667,0
+Kenya,2009,3,Cryptosporidium,5.2,1.4
+Kenya,2009,4,Cryptosporidium,8.177778,1.111111
+Kenya,2009,5,Cryptosporidium,5.5,0
+Kenya,2009,6,Cryptosporidium,10.19167,1
+Kenya,2009,7,Cryptosporidium,11.08333,0
+Kenya,2009,8,Cryptosporidium,5.611111,1.2
+Kenya,2009,9,Cryptosporidium,5.285714,0
+Kenya,2009,10,Cryptosporidium,7.972222,2.5
+Kenya,2009,11,Cryptosporidium,5.777778,0
+Kenya,2009,12,Cryptosporidium,7.55,0
+Kenya,2010,1,Cryptosporidium,7.181818,0
+Kenya,2010,2,Cryptosporidium,5.011111,1.2
+Kenya,2010,3,Cryptosporidium,4.606061,0
+Kenya,2010,4,Cryptosporidium,2.5,1
+Kenya,2010,5,Cryptosporidium,7.311111,1.25
+Kenya,2010,6,Cryptosporidium,1,0
+Kenya,2010,7,Cryptosporidium,1,0
+Kenya,2010,8,Cryptosporidium,0,0
+Kenya,2010,9,Cryptosporidium,3.5,0
+Kenya,2010,10,Cryptosporidium,3.444444,1.25
+Kenya,2010,11,Cryptosporidium,6.6,0
+Kenya,2010,12,Cryptosporidium,1,1
+Kenya,2011,1,Cryptosporidium,9.088889,0
+Kenya,2008,1,Rotavirus,0,0
+Kenya,2008,2,Rotavirus,39.44995,0
+Kenya,2008,3,Rotavirus,12.39286,0
+Kenya,2008,4,Rotavirus,2.5,0
+Kenya,2008,5,Rotavirus,2.310526,0
+Kenya,2008,6,Rotavirus,1.25,0
+Kenya,2008,7,Rotavirus,4.659091,1.25
+Kenya,2008,8,Rotavirus,9.666667,0
+Kenya,2008,9,Rotavirus,6.888889,1.222222
+Kenya,2008,10,Rotavirus,10.0873,1.166667
+Kenya,2008,11,Rotavirus,10.73737,0
+Kenya,2008,12,Rotavirus,20.03929,1
+Kenya,2009,1,Rotavirus,18.87408,1.5
+Kenya,2009,2,Rotavirus,15.80769,1.285714
+Kenya,2009,3,Rotavirus,4.541667,0
+Kenya,2009,4,Rotavirus,5.9,1.111111
+Kenya,2009,5,Rotavirus,2.5,1
+Kenya,2009,6,Rotavirus,0,0
+Kenya,2009,7,Rotavirus,5.541667,0
+Kenya,2009,8,Rotavirus,16.99841,0
+Kenya,2009,9,Rotavirus,11.88571,1.2
+Kenya,2009,10,Rotavirus,5.833333,0
+Kenya,2009,11,Rotavirus,7.888889,0
+Kenya,2009,12,Rotavirus,3.6,0
+Kenya,2010,1,Rotavirus,1,1.428571
+Kenya,2010,2,Rotavirus,2.811111,0
+Kenya,2010,3,Rotavirus,7.94697,1.4
+Kenya,2010,4,Rotavirus,7.3,0
+Kenya,2010,5,Rotavirus,4.885714,0
+Kenya,2010,6,Rotavirus,3,0
+Kenya,2010,7,Rotavirus,4,1.333333
+Kenya,2010,8,Rotavirus,14.34394,2.333333
+Kenya,2010,9,Rotavirus,8,0
+Kenya,2010,10,Rotavirus,4.222222,0
+Kenya,2010,11,Rotavirus,1,0
+Kenya,2010,12,Rotavirus,9.888889,1
+Kenya,2011,1,Rotavirus,12.51111,1
+Kenya,2008,1,Norovirus GI,0,0
+Kenya,2008,2,Norovirus GI,6.895833,0
+Kenya,2008,3,Norovirus GI,2.0625,1.333333
+Kenya,2008,4,Norovirus GI,1.5,0
+Kenya,2008,5,Norovirus GI,1.210526,0
+Kenya,2008,6,Norovirus GI,1.25,0
+Kenya,2008,7,Norovirus GI,2.386364,1.25
+Kenya,2008,8,Norovirus GI,2.928571,0
+Kenya,2008,9,Norovirus GI,2.97619,1.142857
+Kenya,2008,10,Norovirus GI,0,0
+Kenya,2008,11,Norovirus GI,0,0
+Kenya,2008,12,Norovirus GI,0,0
+Kenya,2009,1,Norovirus GI,4.157143,1.25
+Kenya,2009,2,Norovirus GI,0,0
+Kenya,2009,3,Norovirus GI,0,1.4
+Kenya,2009,4,Norovirus GI,0,0
+Kenya,2009,5,Norovirus GI,0,0
+Kenya,2009,6,Norovirus GI,0,0
+Kenya,2009,7,Norovirus GI,0,0
+Kenya,2009,8,Norovirus GI,0,0
+Kenya,2009,9,Norovirus GI,1.8,1
+Kenya,2009,10,Norovirus GI,1.166667,0
+Kenya,2009,11,Norovirus GI,0,0
+Kenya,2009,12,Norovirus GI,0,0
+Kenya,2010,1,Norovirus GI,1.545455,1.428571
+Kenya,2010,2,Norovirus GI,1.1,0
+Kenya,2010,3,Norovirus GI,0,0
+Kenya,2010,4,Norovirus GI,0,0
+Kenya,2010,5,Norovirus GI,3.2,0
+Kenya,2010,6,Norovirus GI,1,0
+Kenya,2010,7,Norovirus GI,0,0
+Kenya,2010,8,Norovirus GI,3.266667,1.333333
+Kenya,2010,9,Norovirus GI,0,0
+Kenya,2010,10,Norovirus GI,1.222222,0
+Kenya,2010,11,Norovirus GI,4.1,0
+Kenya,2010,12,Norovirus GI,0,0
+Kenya,2011,1,Norovirus GI,4.644444,0
+Kenya,2008,1,Norovirus GII,0,0
+Kenya,2008,2,Norovirus GII,11.28571,1.375
+Kenya,2008,3,Norovirus GII,5.375,0
+Kenya,2008,4,Norovirus GII,0,0
+Kenya,2008,5,Norovirus GII,1.25,0
+Kenya,2008,6,Norovirus GII,7.885714,0
+Kenya,2008,7,Norovirus GII,2.3,1.25
+Kenya,2008,8,Norovirus GII,2.904762,0
+Kenya,2008,9,Norovirus GII,2.5,0
+Kenya,2008,10,Norovirus GII,1.4,1
+Kenya,2008,11,Norovirus GII,2.545455,0
+Kenya,2008,12,Norovirus GII,1.375,0
+Kenya,2009,1,Norovirus GII,3.157143,0
+Kenya,2009,2,Norovirus GII,3.666667,0
+Kenya,2009,3,Norovirus GII,1.5,0
+Kenya,2009,4,Norovirus GII,0,0
+Kenya,2009,5,Norovirus GII,0,0
+Kenya,2009,6,Norovirus GII,2.8,0
+Kenya,2009,7,Norovirus GII,0,0
+Kenya,2009,8,Norovirus GII,6.214286,1.2
+Kenya,2009,9,Norovirus GII,0,0
+Kenya,2009,10,Norovirus GII,3.5,0
+Kenya,2009,11,Norovirus GII,0,0
+Kenya,2009,12,Norovirus GII,0,0
+Kenya,2010,1,Norovirus GII,11.15682,0
+Kenya,2010,2,Norovirus GII,4.3,0
+Kenya,2010,3,Norovirus GII,0,0
+Kenya,2010,4,Norovirus GII,0,1
+Kenya,2010,5,Norovirus GII,0,0
+Kenya,2010,6,Norovirus GII,0,0
+Kenya,2010,7,Norovirus GII,0,0
+Kenya,2010,8,Norovirus GII,6.880303,0
+Kenya,2010,9,Norovirus GII,1.333333,0
+Kenya,2010,10,Norovirus GII,0,0
+Kenya,2010,11,Norovirus GII,0,0
+Kenya,2010,12,Norovirus GII,2.888889,0
+Kenya,2011,1,Norovirus GII,1.222222,0
+Kenya,2008,1,Adenovirus 40/41,0,0
+Kenya,2008,2,Adenovirus 40/41,0,0
+Kenya,2008,3,Adenovirus 40/41,2.0625,0
+Kenya,2008,4,Adenovirus 40/41,2.916667,0
+Kenya,2008,5,Adenovirus 40/41,1.210526,0
+Kenya,2008,6,Adenovirus 40/41,0,0
+Kenya,2008,7,Adenovirus 40/41,0,0
+Kenya,2008,8,Adenovirus 40/41,0,0
+Kenya,2008,9,Adenovirus 40/41,1.833333,0
+Kenya,2008,10,Adenovirus 40/41,1.4,0
+Kenya,2008,11,Adenovirus 40/41,0,0
+Kenya,2008,12,Adenovirus 40/41,0,0
+Kenya,2009,1,Adenovirus 40/41,0,1.25
+Kenya,2009,2,Adenovirus 40/41,1.666667,0
+Kenya,2009,3,Adenovirus 40/41,0,0
+Kenya,2009,4,Adenovirus 40/41,0,0
+Kenya,2009,5,Adenovirus 40/41,1.5,1.5
+Kenya,2009,6,Adenovirus 40/41,2.5,0
+Kenya,2009,7,Adenovirus 40/41,2.666667,2
+Kenya,2009,8,Adenovirus 40/41,1.571429,0
+Kenya,2009,9,Adenovirus 40/41,0,0
+Kenya,2009,10,Adenovirus 40/41,2.25,0
+Kenya,2009,11,Adenovirus 40/41,1.2,0
+Kenya,2009,12,Adenovirus 40/41,0,0
+Kenya,2010,1,Adenovirus 40/41,1,0
+Kenya,2010,2,Adenovirus 40/41,1.7,0
+Kenya,2010,3,Adenovirus 40/41,4.181818,0
+Kenya,2010,4,Adenovirus 40/41,0,0
+Kenya,2010,5,Adenovirus 40/41,1.111111,0
+Kenya,2010,6,Adenovirus 40/41,2,0
+Kenya,2010,7,Adenovirus 40/41,2,0
+Kenya,2010,8,Adenovirus 40/41,3.333333,0
+Kenya,2010,9,Adenovirus 40/41,0,0
+Kenya,2010,10,Adenovirus 40/41,0,0
+Kenya,2010,11,Adenovirus 40/41,0,0
+Kenya,2010,12,Adenovirus 40/41,0,0
+Kenya,2011,1,Adenovirus 40/41,2.222222,0
+India,2007,12,all MSD,56.18182,15
+India,2008,1,all MSD,50.50909,13
+India,2008,2,all MSD,33.80909,9
+India,2008,3,all MSD,24.25,8.333333
+India,2008,4,all MSD,25.25,11.41667
+India,2008,5,all MSD,32,9.25
+India,2008,6,all MSD,33.88889,6
+India,2008,7,all MSD,43.68611,13.66667
+India,2008,8,all MSD,53.99643,11.13333
+India,2008,9,all MSD,41.81746,14.2
+India,2008,10,all MSD,51.61111,17
+India,2008,11,all MSD,74,24
+India,2008,12,all MSD,81.1,24
+India,2009,1,all MSD,78.06667,20.66667
+India,2009,2,all MSD,64.52222,18.83333
+India,2009,3,all MSD,54.6127,12.9
+India,2009,4,all MSD,49.19841,18.6
+India,2009,5,all MSD,53.19091,16
+India,2009,6,all MSD,49.30909,11
+India,2009,7,all MSD,45.475,12.42857
+India,2009,8,all MSD,53.19167,17.57143
+India,2009,9,all MSD,48.33333,3
+India,2009,10,all MSD,44,10
+India,2009,11,all MSD,61.58333,8
+India,2009,12,all MSD,56.30556,8
+India,2010,1,all MSD,56.11111,8
+India,2010,2,all MSD,45.42857,6
+India,2010,3,all MSD,45.34921,10
+India,2010,4,all MSD,42.22222,18
+India,2010,5,all MSD,43.33333,9
+India,2010,6,all MSD,44.66667,11
+India,2010,7,all MSD,56.625,7
+India,2010,8,all MSD,62.375,9
+India,2010,9,all MSD,57,14
+India,2010,10,all MSD,68,10
+India,2010,11,all MSD,58.06667,9
+India,2010,12,all MSD,4.933333,0
+India,2007,12,Aeromonas,1.363636,0
+India,2008,1,Aeromonas,0,0
+India,2008,2,Aeromonas,0,0
+India,2008,3,Aeromonas,0,0
+India,2008,4,Aeromonas,1.5,0
+India,2008,5,Aeromonas,0,0
+India,2008,6,Aeromonas,0,0
+India,2008,7,Aeromonas,1.222222,0
+India,2008,8,Aeromonas,0,0
+India,2008,9,Aeromonas,0,0
+India,2008,10,Aeromonas,0,0
+India,2008,11,Aeromonas,0,0
+India,2008,12,Aeromonas,0,0
+India,2009,1,Aeromonas,0,0
+India,2009,2,Aeromonas,1.555556,0
+India,2009,3,Aeromonas,1.444444,0
+India,2009,4,Aeromonas,0,2.6
+India,2009,5,Aeromonas,0,0
+India,2009,6,Aeromonas,1.285714,0
+India,2009,7,Aeromonas,1,0
+India,2009,8,Aeromonas,0,0
+India,2009,9,Aeromonas,0,0
+India,2009,10,Aeromonas,0,0
+India,2009,11,Aeromonas,0,0
+India,2009,12,Aeromonas,0,0
+India,2010,1,Aeromonas,1.555556,0
+India,2010,2,Aeromonas,0,0
+India,2010,3,Aeromonas,0,0
+India,2010,4,Aeromonas,0,0
+India,2010,5,Aeromonas,0,0
+India,2010,6,Aeromonas,0,0
+India,2010,7,Aeromonas,0,0
+India,2010,8,Aeromonas,0,0
+India,2010,9,Aeromonas,0,0
+India,2010,10,Aeromonas,0,0
+India,2010,11,Aeromonas,0,0
+India,2010,12,Aeromonas,0,0
+India,2007,12,C coli or jejuni,0,3.5
+India,2008,1,C coli or jejuni,1.071429,2.8
+India,2008,2,C coli or jejuni,2.272727,1.5
+India,2008,3,C coli or jejuni,1.25,0
+India,2008,4,C coli or jejuni,1.2,0
+India,2008,5,C coli or jejuni,2.642857,0
+India,2008,6,C coli or jejuni,5.507937,0
+India,2008,7,C coli or jejuni,9.841667,0
+India,2008,8,C coli or jejuni,6.125397,1
+India,2008,9,C coli or jejuni,10.35238,2.733333
+India,2008,10,C coli or jejuni,2.55,5
+India,2008,11,C coli or jejuni,12.4,3
+India,2008,12,C coli or jejuni,10.52381,3
+India,2009,1,C coli or jejuni,1.666667,4
+India,2009,2,C coli or jejuni,5.222222,4
+India,2009,3,C coli or jejuni,10.98413,1.375
+India,2009,4,C coli or jejuni,5,2.542857
+India,2009,5,C coli or jejuni,6.68961,4.666667
+India,2009,6,C coli or jejuni,10.05022,6.5
+India,2009,7,C coli or jejuni,14.35,4.333333
+India,2009,8,C coli or jejuni,13.63175,3.685714
+India,2009,9,C coli or jejuni,11.16667,1
+India,2009,10,C coli or jejuni,8.267857,3.166667
+India,2009,11,C coli or jejuni,1.444444,0
+India,2009,12,C coli or jejuni,4.333333,1.333333
+India,2010,1,C coli or jejuni,11.33333,1.25
+India,2010,2,C coli or jejuni,8.970635,0
+India,2010,3,C coli or jejuni,7.396825,0
+India,2010,4,C coli or jejuni,4.444444,1
+India,2010,5,C coli or jejuni,2.125,1.2
+India,2010,6,C coli or jejuni,12.11111,2.5
+India,2010,7,C coli or jejuni,13.29444,1
+India,2010,8,C coli or jejuni,11.1746,0
+India,2010,9,C coli or jejuni,7.111111,2.5
+India,2010,10,C coli or jejuni,6.111111,0
+India,2010,11,C coli or jejuni,7.222222,1
+India,2010,12,C coli or jejuni,0,0
+India,2007,12,Shigella,5.104762,0
+India,2008,1,Shigella,7.181818,1.8
+India,2008,2,Shigella,0,0
+India,2008,3,Shigella,4,1.333333
+India,2008,4,Shigella,1.2,3.833333
+India,2008,5,Shigella,5.642857,6.333333
+India,2008,6,Shigella,1.222222,1.666667
+India,2008,7,Shigella,1.222222,2.333333
+India,2008,8,Shigella,1.3,1
+India,2008,9,Shigella,2.785714,2.733333
+India,2008,10,Shigella,0,0
+India,2008,11,Shigella,3.955556,3
+India,2008,12,Shigella,4.825397,7
+India,2009,1,Shigella,1.875,0
+India,2009,2,Shigella,0,1.333333
+India,2009,3,Shigella,1.8,0
+India,2009,4,Shigella,1.714286,0
+India,2009,5,Shigella,4.714286,0
+India,2009,6,Shigella,1.545455,3.5
+India,2009,7,Shigella,3.6,1.166667
+India,2009,8,Shigella,2.888889,1.4
+India,2009,9,Shigella,2.333333,0
+India,2009,10,Shigella,2.267857,1.166667
+India,2009,11,Shigella,1.888889,0
+India,2009,12,Shigella,2.694444,2.666667
+India,2010,1,Shigella,1.222222,2.25
+India,2010,2,Shigella,0,0
+India,2010,3,Shigella,1.111111,0
+India,2010,4,Shigella,2.555556,3.4
+India,2010,5,Shigella,1.125,3.6
+India,2010,6,Shigella,0,1
+India,2010,7,Shigella,4.347222,0
+India,2010,8,Shigella,0,1
+India,2010,9,Shigella,2.365079,1
+India,2010,10,Shigella,0,1.333333
+India,2010,11,Shigella,1.666667,0
+India,2010,12,Shigella,0,0
+India,2007,12,V cholerae,1.333333,3.5
+India,2008,1,V cholerae,0,0
+India,2008,2,V cholerae,2,0
+India,2008,3,V cholerae,0,0
+India,2008,4,V cholerae,1,0
+India,2008,5,V cholerae,0,0
+India,2008,6,V cholerae,0,0
+India,2008,7,V cholerae,3.666667,0
+India,2008,8,V cholerae,1.285714,0
+India,2008,9,V cholerae,2.785714,0
+India,2008,10,V cholerae,1.25,7.75
+India,2008,11,V cholerae,2,1.5
+India,2008,12,V cholerae,0,0
+India,2009,1,V cholerae,0,1.333333
+India,2009,2,V cholerae,0,1.375
+India,2009,3,V cholerae,3.492063,0
+India,2009,4,V cholerae,6.059524,3.685714
+India,2009,5,V cholerae,7.233766,4.666667
+India,2009,6,V cholerae,6.164502,2
+India,2009,7,V cholerae,3.575,6.97619
+India,2009,8,V cholerae,1.714286,3
+India,2009,9,V cholerae,2.333333,0
+India,2009,10,V cholerae,0,0
+India,2009,11,V cholerae,0,0
+India,2009,12,V cholerae,0,0
+India,2010,1,V cholerae,1.222222,0
+India,2010,2,V cholerae,0,0
+India,2010,3,V cholerae,2.111111,1
+India,2010,4,V cholerae,3.444444,2
+India,2010,5,V cholerae,1,0
+India,2010,6,V cholerae,1.333333,2.5
+India,2010,7,V cholerae,2.125,0
+India,2010,8,V cholerae,0,1
+India,2010,9,V cholerae,0,0
+India,2010,10,V cholerae,3.666667,1
+India,2010,11,V cholerae,0,0
+India,2010,12,V cholerae,1.2,0
+India,2007,12,ETEC ST,1.2,0
+India,2008,1,ETEC ST,0,0
+India,2008,2,ETEC ST,1.090909,0
+India,2008,3,ETEC ST,2.25,1.333333
+India,2008,4,ETEC ST,0,3.75
+India,2008,5,ETEC ST,3,0
+India,2008,6,ETEC ST,3.904762,0
+India,2008,7,ETEC ST,7,3.333333
+India,2008,8,ETEC ST,7.94881,0
+India,2008,9,ETEC ST,1.285714,3
+India,2008,10,ETEC ST,5.407143,1.75
+India,2008,11,ETEC ST,2.4,0
+India,2008,12,ETEC ST,7.206349,0
+India,2009,1,ETEC ST,3.541667,0
+India,2009,2,ETEC ST,0,0
+India,2009,3,ETEC ST,3.15873,2.625
+India,2009,4,ETEC ST,1.166667,3.685714
+India,2009,5,ETEC ST,6.63961,0
+India,2009,6,ETEC ST,7.057576,3
+India,2009,7,ETEC ST,2.8,1
+India,2009,8,ETEC ST,3,0
+India,2009,9,ETEC ST,5.777778,0
+India,2009,10,ETEC ST,2.125,2.333333
+India,2009,11,ETEC ST,1.333333,0
+India,2009,12,ETEC ST,1.25,2
+India,2010,1,ETEC ST,0,0
+India,2010,2,ETEC ST,1.142857,1.5
+India,2010,3,ETEC ST,4.253968,2
+India,2010,4,ETEC ST,4.222222,1
+India,2010,5,ETEC ST,3.777778,1
+India,2010,6,ETEC ST,0,0
+India,2010,7,ETEC ST,4.822222,0
+India,2010,8,ETEC ST,1,1
+India,2010,9,ETEC ST,2.777778,0
+India,2010,10,ETEC ST,2.444444,1
+India,2010,11,ETEC ST,1.666667,0
+India,2010,12,ETEC ST,0,0
+India,2007,12,tEPEC,5.268398,1.75
+India,2008,1,tEPEC,4.963636,0
+India,2008,2,tEPEC,1.125,0
+India,2008,3,tEPEC,1.25,0
+India,2008,4,tEPEC,0,0
+India,2008,5,tEPEC,3.142857,0
+India,2008,6,tEPEC,0,0
+India,2008,7,tEPEC,0,0
+India,2008,8,tEPEC,5.095238,0
+India,2008,9,tEPEC,2.722222,0
+India,2008,10,tEPEC,0,0
+India,2008,11,tEPEC,0,1.5
+India,2008,12,tEPEC,2.142857,0
+India,2009,1,tEPEC,1.5,0
+India,2009,2,tEPEC,1.8,0
+India,2009,3,tEPEC,3.15873,0
+India,2009,4,tEPEC,0,0
+India,2009,5,tEPEC,0,1.666667
+India,2009,6,tEPEC,1.666667,0
+India,2009,7,tEPEC,0,0
+India,2009,8,tEPEC,1.714286,0
+India,2009,9,tEPEC,2.444444,0
+India,2009,10,tEPEC,4.142857,0
+India,2009,11,tEPEC,1.888889,0
+India,2009,12,tEPEC,0,0
+India,2010,1,tEPEC,0,0
+India,2010,2,tEPEC,0,0
+India,2010,3,tEPEC,4.666667,0
+India,2010,4,tEPEC,0,1.2
+India,2010,5,tEPEC,0,0
+India,2010,6,tEPEC,1.333333,1
+India,2010,7,tEPEC,1.8,0
+India,2010,8,tEPEC,2.555556,1
+India,2010,9,tEPEC,1.222222,0
+India,2010,10,tEPEC,1.444444,0
+India,2010,11,tEPEC,0,0
+India,2010,12,tEPEC,0,0
+India,2007,12,EAEC,4.945455,1.75
+India,2008,1,EAEC,5.577922,2.8
+India,2008,2,EAEC,8.636364,1
+India,2008,3,EAEC,3.45,0
+India,2008,4,EAEC,4.2,1.25
+India,2008,5,EAEC,2.333333,0
+India,2008,6,EAEC,7.650794,1
+India,2008,7,EAEC,6.827778,2.333333
+India,2008,8,EAEC,14.16905,4.333333
+India,2008,9,EAEC,12.71905,2.733333
+India,2008,10,EAEC,9.300794,6.75
+India,2008,11,EAEC,15.68889,3
+India,2008,12,EAEC,11.43175,2.8
+India,2009,1,EAEC,23.525,1.333333
+India,2009,2,EAEC,19.72222,0
+India,2009,3,EAEC,6.777778,3.825
+India,2009,4,EAEC,10.35714,2.342857
+India,2009,5,EAEC,8.533766,0
+India,2009,6,EAEC,10.56234,1
+India,2009,7,EAEC,9.35,2.309524
+India,2009,8,EAEC,8.028571,1.4
+India,2009,9,EAEC,15.33333,0
+India,2009,10,EAEC,7.688312,0
+India,2009,11,EAEC,12.66667,0
+India,2009,12,EAEC,7.555556,0
+India,2010,1,EAEC,9.666667,1.25
+India,2010,2,EAEC,7.827778,0
+India,2010,3,EAEC,3.666667,0
+India,2010,4,EAEC,7.333333,1.2
+India,2010,5,EAEC,1.111111,0
+India,2010,6,EAEC,5.666667,1.25
+India,2010,7,EAEC,1.125,0
+India,2010,8,EAEC,12.7123,0
+India,2010,9,EAEC,7.444444,0
+India,2010,10,EAEC,2.888889,2
+India,2010,11,EAEC,4.111111,1
+India,2010,12,EAEC,0,0
+India,2007,12,Cryptosporidium,2,1.75
+India,2008,1,Cryptosporidium,3.653247,1
+India,2008,2,Cryptosporidium,1,2.5
+India,2008,3,Cryptosporidium,4,1.5
+India,2008,4,Cryptosporidium,2.4,0
+India,2008,5,Cryptosporidium,2,1.666667
+India,2008,6,Cryptosporidium,1.285714,1
+India,2008,7,Cryptosporidium,3.725,0
+India,2008,8,Cryptosporidium,9.836111,0
+India,2008,9,Cryptosporidium,5.288889,0
+India,2008,10,Cryptosporidium,8.260714,0
+India,2008,11,Cryptosporidium,2.4,4.5
+India,2008,12,Cryptosporidium,7.539683,5.8
+India,2009,1,Cryptosporidium,0,0
+India,2009,2,Cryptosporidium,8.888889,1.333333
+India,2009,3,Cryptosporidium,8.244444,2.575
+India,2009,4,Cryptosporidium,1.777778,2.342857
+India,2009,5,Cryptosporidium,3.522727,3.333333
+India,2009,6,Cryptosporidium,3.090909,0
+India,2009,7,Cryptosporidium,2.6,1.142857
+India,2009,8,Cryptosporidium,29.06905,2.9
+India,2009,9,Cryptosporidium,14.16667,0
+India,2009,10,Cryptosporidium,20.83766,2
+India,2009,11,Cryptosporidium,9.666667,2
+India,2009,12,Cryptosporidium,19.08333,0
+India,2010,1,Cryptosporidium,25.33333,0
+India,2010,2,Cryptosporidium,20.61746,0
+India,2010,3,Cryptosporidium,10.80952,3.5
+India,2010,4,Cryptosporidium,6.111111,2.4
+India,2010,5,Cryptosporidium,9.708333,0
+India,2010,6,Cryptosporidium,1.333333,2.5
+India,2010,7,Cryptosporidium,0,0
+India,2010,8,Cryptosporidium,11.45833,2.333333
+India,2010,9,Cryptosporidium,22.1746,3.75
+India,2010,10,Cryptosporidium,18,2
+India,2010,11,Cryptosporidium,26.66667,1
+India,2010,12,Cryptosporidium,0,0
+India,2007,12,Rotavirus,28.39394,9.75
+India,2008,1,Rotavirus,32.87922,4.6
+India,2008,2,Rotavirus,18.39318,4.5
+India,2008,3,Rotavirus,5.65,2.833333
+India,2008,4,Rotavirus,3.9,0
+India,2008,5,Rotavirus,8.285714,0
+India,2008,6,Rotavirus,6.857143,0
+India,2008,7,Rotavirus,13.625,0
+India,2008,8,Rotavirus,20.21627,0
+India,2008,9,Rotavirus,15.02222,0
+India,2008,10,Rotavirus,22.45317,0
+India,2008,11,Rotavirus,19.95556,4.5
+India,2008,12,Rotavirus,32.8746,8.4
+India,2009,1,Rotavirus,41.29167,5.333333
+India,2009,2,Rotavirus,25.61111,1.375
+India,2009,3,Rotavirus,9.603175,1.375
+India,2009,4,Rotavirus,5.035714,1.2
+India,2009,5,Rotavirus,4.85,1.5
+India,2009,6,Rotavirus,5.416883,1
+India,2009,7,Rotavirus,0,0
+India,2009,8,Rotavirus,9.039286,0
+India,2009,9,Rotavirus,13.33333,0
+India,2009,10,Rotavirus,10.08117,2.333333
+India,2009,11,Rotavirus,23.91667,2
+India,2009,12,Rotavirus,24.13889,1.333333
+India,2010,1,Rotavirus,22.77778,3.5
+India,2010,2,Rotavirus,15.91071,1.5
+India,2010,3,Rotavirus,5.920635,0
+India,2010,4,Rotavirus,3.666667,0
+India,2010,5,Rotavirus,1.111111,0
+India,2010,6,Rotavirus,5,1
+India,2010,7,Rotavirus,4.05,0
+India,2010,8,Rotavirus,15.10913,2.333333
+India,2010,9,Rotavirus,19.84127,2.25
+India,2010,10,Rotavirus,19.44444,3.333333
+India,2010,11,Rotavirus,11.44444,2.5
+India,2010,12,Rotavirus,2.4,0
+India,2007,12,Norovirus GI,0,3.5
+India,2008,1,Norovirus GI,0,0
+India,2008,2,Norovirus GI,1,0
+India,2008,3,Norovirus GI,0,0
+India,2008,4,Norovirus GI,0,0
+India,2008,5,Norovirus GI,1.166667,1.666667
+India,2008,6,Norovirus GI,1.333333,0
+India,2008,7,Norovirus GI,1.3,0
+India,2008,8,Norovirus GI,0,0
+India,2008,9,Norovirus GI,0,0
+India,2008,10,Norovirus GI,0,0
+India,2008,11,Norovirus GI,0,0
+India,2008,12,Norovirus GI,0,0
+India,2009,1,Norovirus GI,2,0
+India,2009,2,Norovirus GI,0,0
+India,2009,3,Norovirus GI,0,0
+India,2009,4,Norovirus GI,1.777778,0
+India,2009,5,Norovirus GI,2.25,0
+India,2009,6,Norovirus GI,1.3,0
+India,2009,7,Norovirus GI,0,0
+India,2009,8,Norovirus GI,0,0
+India,2009,9,Norovirus GI,0,0
+India,2009,10,Norovirus GI,0,0
+India,2009,11,Norovirus GI,0,0
+India,2009,12,Norovirus GI,0,0
+India,2010,1,Norovirus GI,1.555556,0
+India,2010,2,Norovirus GI,0,0
+India,2010,3,Norovirus GI,1.142857,0
+India,2010,4,Norovirus GI,1,0
+India,2010,5,Norovirus GI,1,0
+India,2010,6,Norovirus GI,0,0
+India,2010,7,Norovirus GI,0,1
+India,2010,8,Norovirus GI,0,0
+India,2010,9,Norovirus GI,0,0
+India,2010,10,Norovirus GI,0,0
+India,2010,11,Norovirus GI,0,0
+India,2010,12,Norovirus GI,0,0
+India,2007,12,Norovirus GII,0,0
+India,2008,1,Norovirus GII,3.435065,0
+India,2008,2,Norovirus GII,3.181818,0
+India,2008,3,Norovirus GII,2.25,0
+India,2008,4,Norovirus GII,0,0
+India,2008,5,Norovirus GII,6.142857,0
+India,2008,6,Norovirus GII,2.571429,0
+India,2008,7,Norovirus GII,5.625,0
+India,2008,8,Norovirus GII,3.869444,0
+India,2008,9,Norovirus GII,5.374603,0
+India,2008,10,Norovirus GII,10.70079,0
+India,2008,11,Norovirus GII,11.68889,1.5
+India,2008,12,Norovirus GII,12.63492,0
+India,2009,1,Norovirus GII,6.7,1.333333
+India,2009,2,Norovirus GII,2.111111,0
+India,2009,3,Norovirus GII,1.444444,0
+India,2009,4,Norovirus GII,6.892857,0
+India,2009,5,Norovirus GII,3.522727,0
+India,2009,6,Norovirus GII,1,1
+India,2009,7,Norovirus GII,4.775,0
+India,2009,8,Norovirus GII,3.15873,0
+India,2009,9,Norovirus GII,0,0
+India,2009,10,Norovirus GII,3.324675,0
+India,2009,11,Norovirus GII,6.666667,0
+India,2009,12,Norovirus GII,5.277778,0
+India,2010,1,Norovirus GII,8.888889,0
+India,2010,2,Norovirus GII,3.555556,0
+India,2010,3,Norovirus GII,3,0
+India,2010,4,Norovirus GII,5.333333,1.2
+India,2010,5,Norovirus GII,3.569444,1
+India,2010,6,Norovirus GII,4.777778,0
+India,2010,7,Norovirus GII,1,0
+India,2010,8,Norovirus GII,3.698413,1
+India,2010,9,Norovirus GII,0,1
+India,2010,10,Norovirus GII,1.888889,0
+India,2010,11,Norovirus GII,8,2
+India,2010,12,Norovirus GII,0,0
+India,2007,12,Adenovirus 40/41,0,0
+India,2008,1,Adenovirus 40/41,1.181818,2
+India,2008,2,Adenovirus 40/41,1.181818,0
+India,2008,3,Adenovirus 40/41,3.4,0
+India,2008,4,Adenovirus 40/41,0,0
+India,2008,5,Adenovirus 40/41,0,0
+India,2008,6,Adenovirus 40/41,2.555556,1.666667
+India,2008,7,Adenovirus 40/41,2.472222,0
+India,2008,8,Adenovirus 40/41,1.285714,0
+India,2008,9,Adenovirus 40/41,1.285714,0
+India,2008,10,Adenovirus 40/41,1.375,0
+India,2008,11,Adenovirus 40/41,6.8,0
+India,2008,12,Adenovirus 40/41,6.063492,0
+India,2009,1,Adenovirus 40/41,0,0
+India,2009,2,Adenovirus 40/41,2.111111,0
+India,2009,3,Adenovirus 40/41,4.936508,2.5
+India,2009,4,Adenovirus 40/41,4.857143,1.4
+India,2009,5,Adenovirus 40/41,0,0
+India,2009,6,Adenovirus 40/41,7.04329,0
+India,2009,7,Adenovirus 40/41,1.2,0
+India,2009,8,Adenovirus 40/41,0,1.142857
+India,2009,9,Adenovirus 40/41,1,0
+India,2009,10,Adenovirus 40/41,3.324675,0
+India,2009,11,Adenovirus 40/41,2.888889,0
+India,2009,12,Adenovirus 40/41,1.333333,0
+India,2010,1,Adenovirus 40/41,1.222222,0
+India,2010,2,Adenovirus 40/41,0,0
+India,2010,3,Adenovirus 40/41,0,1
+India,2010,4,Adenovirus 40/41,4.444444,0
+India,2010,5,Adenovirus 40/41,2.555556,0
+India,2010,6,Adenovirus 40/41,2,0
+India,2010,7,Adenovirus 40/41,3.6,0
+India,2010,8,Adenovirus 40/41,3.809524,0
+India,2010,9,Adenovirus 40/41,0,0
+India,2010,10,Adenovirus 40/41,1.888889,0
+India,2010,11,Adenovirus 40/41,9.555556,2.5
+India,2010,12,Adenovirus 40/41,0,0
+Bangladesh,2007,12,all MSD,38.75,9.666667
+Bangladesh,2008,1,all MSD,47.11667,10.33333
+Bangladesh,2008,2,all MSD,37.04242,8
+Bangladesh,2008,3,all MSD,54.07775,18.69231
+Bangladesh,2008,4,all MSD,63.63816,30.30769
+Bangladesh,2008,5,all MSD,40.375,28
+Bangladesh,2008,6,all MSD,58.98214,23.14286
+Bangladesh,2008,7,all MSD,36.01786,8.857143
+Bangladesh,2008,8,all MSD,27.625,8
+Bangladesh,2008,9,all MSD,32.175,2
+Bangladesh,2008,10,all MSD,37.2,6
+Bangladesh,2008,11,all MSD,32,9
+Bangladesh,2008,12,all MSD,30,9
+Bangladesh,2009,1,all MSD,30,8
+Bangladesh,2009,2,all MSD,39.33333,11.5
+Bangladesh,2009,3,all MSD,38.55556,27.5
+Bangladesh,2009,4,all MSD,53.61111,20.66667
+Bangladesh,2009,5,all MSD,32.5,16.83333
+Bangladesh,2009,6,all MSD,39.86111,7.5
+Bangladesh,2009,7,all MSD,24.63889,7
+Bangladesh,2009,8,all MSD,26.83333,11
+Bangladesh,2009,9,all MSD,19.66667,9
+Bangladesh,2009,10,all MSD,30,12
+Bangladesh,2009,11,all MSD,20.25,5
+Bangladesh,2009,12,all MSD,18,9
+Bangladesh,2010,1,all MSD,29.75,9
+Bangladesh,2010,2,all MSD,14.5,8
+Bangladesh,2010,3,all MSD,23.5,6
+Bangladesh,2010,4,all MSD,39.8,31
+Bangladesh,2010,5,all MSD,41.2,23
+Bangladesh,2010,6,all MSD,35.7381,12.14286
+Bangladesh,2010,7,all MSD,49.92857,12.19048
+Bangladesh,2010,8,all MSD,20.83333,8.666667
+Bangladesh,2010,9,all MSD,24.9,4
+Bangladesh,2010,10,all MSD,26.55238,11
+Bangladesh,2010,11,all MSD,24.04762,3
+Bangladesh,2010,12,all MSD,0,1
+Bangladesh,2007,12,Aeromonas,1.166667,0
+Bangladesh,2008,1,Aeromonas,5.022222,1.75
+Bangladesh,2008,2,Aeromonas,5.715152,1
+Bangladesh,2008,3,Aeromonas,14.15789,2.201923
+Bangladesh,2008,4,Aeromonas,4.601504,7.153846
+Bangladesh,2008,5,Aeromonas,8.31746,4.25
+Bangladesh,2008,6,Aeromonas,11.96818,5.342857
+Bangladesh,2008,7,Aeromonas,4.970238,0
+Bangladesh,2008,8,Aeromonas,5.333333,0
+Bangladesh,2008,9,Aeromonas,6.307692,2
+Bangladesh,2008,10,Aeromonas,14.75556,1
+Bangladesh,2008,11,Aeromonas,6.605769,1
+Bangladesh,2008,12,Aeromonas,5.75,4.75
+Bangladesh,2009,1,Aeromonas,5.45,1
+Bangladesh,2009,2,Aeromonas,1,0
+Bangladesh,2009,3,Aeromonas,4.311111,6.75
+Bangladesh,2009,4,Aeromonas,10,8.666667
+Bangladesh,2009,5,Aeromonas,10.48214,9.833333
+Bangladesh,2009,6,Aeromonas,14.08333,4.5
+Bangladesh,2009,7,Aeromonas,11.19444,1
+Bangladesh,2009,8,Aeromonas,8,5
+Bangladesh,2009,9,Aeromonas,7.533333,5.666667
+Bangladesh,2009,10,Aeromonas,10,4
+Bangladesh,2009,11,Aeromonas,4.5,2.5
+Bangladesh,2009,12,Aeromonas,4.5,3.5
+Bangladesh,2010,1,Aeromonas,11.5,0
+Bangladesh,2010,2,Aeromonas,1.5,1
+Bangladesh,2010,3,Aeromonas,8.5,4
+Bangladesh,2010,4,Aeromonas,17.25595,13.01389
+Bangladesh,2010,5,Aeromonas,11.20833,7.507937
+Bangladesh,2010,6,Aeromonas,14.63889,3.2
+Bangladesh,2010,7,Aeromonas,18.86508,7.428571
+Bangladesh,2010,8,Aeromonas,5.958333,3.333333
+Bangladesh,2010,9,Aeromonas,7.858333,3
+Bangladesh,2010,10,Aeromonas,4,4
+Bangladesh,2010,11,Aeromonas,11.85714,1
+Bangladesh,2010,12,Aeromonas,0,0
+Bangladesh,2007,12,C coli or jejuni,10.51603,0
+Bangladesh,2008,1,C coli or jejuni,8.930556,0
+Bangladesh,2008,2,C coli or jejuni,7.881818,4
+Bangladesh,2008,3,C coli or jejuni,11.63397,0
+Bangladesh,2008,4,C coli or jejuni,11.21841,1.214286
+Bangladesh,2008,5,C coli or jejuni,6.549603,0
+Bangladesh,2008,6,C coli or jejuni,11.74545,0
+Bangladesh,2008,7,C coli or jejuni,7.720238,1.142857
+Bangladesh,2008,8,C coli or jejuni,4.347222,0
+Bangladesh,2008,9,C coli or jejuni,9.834615,0
+Bangladesh,2008,10,C coli or jejuni,11.66667,0
+Bangladesh,2008,11,C coli or jejuni,9.836538,1
+Bangladesh,2008,12,C coli or jejuni,5.25,0
+Bangladesh,2009,1,C coli or jejuni,4.325,3
+Bangladesh,2009,2,C coli or jejuni,9.505051,0
+Bangladesh,2009,3,C coli or jejuni,5.644444,0
+Bangladesh,2009,4,C coli or jejuni,5.722222,1.111111
+Bangladesh,2009,5,C coli or jejuni,6.910714,0
+Bangladesh,2009,6,C coli or jejuni,8.694444,0
+Bangladesh,2009,7,C coli or jejuni,9.866667,0
+Bangladesh,2009,8,C coli or jejuni,9.333333,0
+Bangladesh,2009,9,C coli or jejuni,7.4,1
+Bangladesh,2009,10,C coli or jejuni,12,3
+Bangladesh,2009,11,C coli or jejuni,4.166667,0
+Bangladesh,2009,12,C coli or jejuni,1,0
+Bangladesh,2010,1,C coli or jejuni,8.375,0
+Bangladesh,2010,2,C coli or jejuni,3.5,0
+Bangladesh,2010,3,C coli or jejuni,6.5,0
+Bangladesh,2010,4,C coli or jejuni,1.166667,0
+Bangladesh,2010,5,C coli or jejuni,8.222222,1.285714
+Bangladesh,2010,6,C coli or jejuni,7.944444,0
+Bangladesh,2010,7,C coli or jejuni,15.23016,0
+Bangladesh,2010,8,C coli or jejuni,4.833333,1.333333
+Bangladesh,2010,9,C coli or jejuni,2.25,0
+Bangladesh,2010,10,C coli or jejuni,2.452381,0
+Bangladesh,2010,11,C coli or jejuni,6,1
+Bangladesh,2010,12,C coli or jejuni,0,0
+Bangladesh,2007,12,Shigella,9.589744,7
+Bangladesh,2008,1,Shigella,11.675,5.166667
+Bangladesh,2008,2,Shigella,7.078788,4
+Bangladesh,2008,3,Shigella,13.90431,14.28846
+Bangladesh,2008,4,Shigella,26.96248,26.87912
+Bangladesh,2008,5,Shigella,20.47024,23.75
+Bangladesh,2008,6,Shigella,28.15812,18.05714
+Bangladesh,2008,7,Shigella,11.375,6.857143
+Bangladesh,2008,8,Shigella,6.222222,8
+Bangladesh,2008,9,Shigella,7.820513,1
+Bangladesh,2008,10,Shigella,6.333333,5
+Bangladesh,2008,11,Shigella,8.605769,4
+Bangladesh,2008,12,Shigella,7.5,6.5
+Bangladesh,2009,1,Shigella,8.858333,3
+Bangladesh,2009,2,Shigella,8.090909,8.5
+Bangladesh,2009,3,Shigella,11.73333,13.58333
+Bangladesh,2009,4,Shigella,28.11111,14.44444
+Bangladesh,2009,5,Shigella,10.375,13.33333
+Bangladesh,2009,6,Shigella,14.36111,6
+Bangladesh,2009,7,Shigella,5.85,5.666667
+Bangladesh,2009,8,Shigella,9.166667,8
+Bangladesh,2009,9,Shigella,9.733333,6.666667
+Bangladesh,2009,10,Shigella,10,9
+Bangladesh,2009,11,Shigella,5.666667,5
+Bangladesh,2009,12,Shigella,6.75,4.5
+Bangladesh,2010,1,Shigella,6,5.5
+Bangladesh,2010,2,Shigella,0,3.25
+Bangladesh,2010,3,Shigella,2,4
+Bangladesh,2010,4,Shigella,16.23929,22.43056
+Bangladesh,2010,5,Shigella,20.39444,15.7619
+Bangladesh,2010,6,Shigella,16.46032,9.942857
+Bangladesh,2010,7,Shigella,17,7.428571
+Bangladesh,2010,8,Shigella,6.208333,5
+Bangladesh,2010,9,Shigella,7.933333,2
+Bangladesh,2010,10,Shigella,5.619048,9
+Bangladesh,2010,11,Shigella,7.190476,1
+Bangladesh,2010,12,Shigella,0,1
+Bangladesh,2007,12,V cholerae,0,1
+Bangladesh,2008,1,V cholerae,0,0
+Bangladesh,2008,2,V cholerae,0,0
+Bangladesh,2008,3,V cholerae,1.090909,0
+Bangladesh,2008,4,V cholerae,0,0
+Bangladesh,2008,5,V cholerae,1.444444,0
+Bangladesh,2008,6,V cholerae,1.272727,1.4
+Bangladesh,2008,7,V cholerae,3.75,0
+Bangladesh,2008,8,V cholerae,1.111111,0
+Bangladesh,2008,9,V cholerae,1,0
+Bangladesh,2008,10,V cholerae,0,1
+Bangladesh,2008,11,V cholerae,3.2,2
+Bangladesh,2008,12,V cholerae,0,1.25
+Bangladesh,2009,1,V cholerae,1.166667,1
+Bangladesh,2009,2,V cholerae,0,0
+Bangladesh,2009,3,V cholerae,0,0
+Bangladesh,2009,4,V cholerae,0,3.777778
+Bangladesh,2009,5,V cholerae,0,1
+Bangladesh,2009,6,V cholerae,2.222222,1.5
+Bangladesh,2009,7,V cholerae,2.222222,0
+Bangladesh,2009,8,V cholerae,2.333333,1
+Bangladesh,2009,9,V cholerae,2.4,1.333333
+Bangladesh,2009,10,V cholerae,3,1
+Bangladesh,2009,11,V cholerae,1.166667,0
+Bangladesh,2009,12,V cholerae,0,0
+Bangladesh,2010,1,V cholerae,0,0
+Bangladesh,2010,2,V cholerae,0,0
+Bangladesh,2010,3,V cholerae,0,0
+Bangladesh,2010,4,V cholerae,2.628571,0
+Bangladesh,2010,5,V cholerae,0,4.396825
+Bangladesh,2010,6,V cholerae,2.111111,0
+Bangladesh,2010,7,V cholerae,1.571429,0
+Bangladesh,2010,8,V cholerae,2.583333,1.333333
+Bangladesh,2010,9,V cholerae,0,0
+Bangladesh,2010,10,V cholerae,1.333333,1
+Bangladesh,2010,11,V cholerae,1,0
+Bangladesh,2010,12,V cholerae,0,0
+Bangladesh,2007,12,ETEC ST,0,1
+Bangladesh,2008,1,ETEC ST,0,0
+Bangladesh,2008,2,ETEC ST,0,0
+Bangladesh,2008,3,ETEC ST,1.25,0
+Bangladesh,2008,4,ETEC ST,3.875,2
+Bangladesh,2008,5,ETEC ST,1,3.1875
+Bangladesh,2008,6,ETEC ST,0,0
+Bangladesh,2008,7,ETEC ST,0,0
+Bangladesh,2008,8,ETEC ST,0,2.833333
+Bangladesh,2008,9,ETEC ST,0,0
+Bangladesh,2008,10,ETEC ST,0,0
+Bangladesh,2008,11,ETEC ST,0,0
+Bangladesh,2008,12,ETEC ST,0,0
+Bangladesh,2009,1,ETEC ST,0,0
+Bangladesh,2009,2,ETEC ST,0,0
+Bangladesh,2009,3,ETEC ST,0,1.166667
+Bangladesh,2009,4,ETEC ST,5.055556,0
+Bangladesh,2009,5,ETEC ST,4.25,1.5
+Bangladesh,2009,6,ETEC ST,1.222222,1.5
+Bangladesh,2009,7,ETEC ST,0,0
+Bangladesh,2009,8,ETEC ST,0,0
+Bangladesh,2009,9,ETEC ST,0,0
+Bangladesh,2009,10,ETEC ST,0,0
+Bangladesh,2009,11,ETEC ST,0,0
+Bangladesh,2009,12,ETEC ST,0,0
+Bangladesh,2010,1,ETEC ST,0,0
+Bangladesh,2010,2,ETEC ST,0,0
+Bangladesh,2010,3,ETEC ST,0,0
+Bangladesh,2010,4,ETEC ST,4.753571,0
+Bangladesh,2010,5,ETEC ST,1.555556,0
+Bangladesh,2010,6,ETEC ST,0,1.2
+Bangladesh,2010,7,ETEC ST,0,0
+Bangladesh,2010,8,ETEC ST,2.375,0
+Bangladesh,2010,9,ETEC ST,0,0
+Bangladesh,2010,10,ETEC ST,0,0
+Bangladesh,2010,11,ETEC ST,1.285714,0
+Bangladesh,2010,12,ETEC ST,0,0
+Bangladesh,2007,12,tEPEC,1.153846,1
+Bangladesh,2008,1,tEPEC,1.2,0
+Bangladesh,2008,2,tEPEC,4.4,0
+Bangladesh,2008,3,tEPEC,4.61244,1.125
+Bangladesh,2008,4,tEPEC,8.693609,2.214286
+Bangladesh,2008,5,tEPEC,2.730159,1.0625
+Bangladesh,2008,6,tEPEC,8.376299,4.571429
+Bangladesh,2008,7,tEPEC,2.803571,1.142857
+Bangladesh,2008,8,tEPEC,2.111111,0
+Bangladesh,2008,9,tEPEC,2,0
+Bangladesh,2008,10,tEPEC,2.444444,0
+Bangladesh,2008,11,tEPEC,4.478846,0
+Bangladesh,2008,12,tEPEC,2.25,1
+Bangladesh,2009,1,tEPEC,0,0
+Bangladesh,2009,2,tEPEC,1.333333,0
+Bangladesh,2009,3,tEPEC,1.333333,2.625
+Bangladesh,2009,4,tEPEC,1.222222,0
+Bangladesh,2009,5,tEPEC,5.571429,0
+Bangladesh,2009,6,tEPEC,3.444444,0
+Bangladesh,2009,7,tEPEC,1.3,0
+Bangladesh,2009,8,tEPEC,3.666667,0
+Bangladesh,2009,9,tEPEC,2.2,0
+Bangladesh,2009,10,tEPEC,1,0
+Bangladesh,2009,11,tEPEC,4.333333,0
+Bangladesh,2009,12,tEPEC,2.25,1
+Bangladesh,2010,1,tEPEC,3,0
+Bangladesh,2010,2,tEPEC,2,0
+Bangladesh,2010,3,tEPEC,2,2
+Bangladesh,2010,4,tEPEC,5.691667,1.375
+Bangladesh,2010,5,tEPEC,3.583333,0
+Bangladesh,2010,6,tEPEC,4.361111,0
+Bangladesh,2010,7,tEPEC,8.198413,1.142857
+Bangladesh,2010,8,tEPEC,1.25,0
+Bangladesh,2010,9,tEPEC,0,0
+Bangladesh,2010,10,tEPEC,4.266667,2
+Bangladesh,2010,11,tEPEC,2,1
+Bangladesh,2010,12,tEPEC,0,0
+Bangladesh,2007,12,EAEC,5.794872,3
+Bangladesh,2008,1,EAEC,9.858333,1.666667
+Bangladesh,2008,2,EAEC,6.315152,4
+Bangladesh,2008,3,EAEC,18.17823,4.355769
+Bangladesh,2008,4,EAEC,23.90088,8.148352
+Bangladesh,2008,5,EAEC,13.99405,0
+Bangladesh,2008,6,EAEC,15.04545,1.142857
+Bangladesh,2008,7,EAEC,17.01786,0
+Bangladesh,2008,8,EAEC,10.58333,0
+Bangladesh,2008,9,EAEC,9.451282,0
+Bangladesh,2008,10,EAEC,12.33333,0
+Bangladesh,2008,11,EAEC,11.90962,2
+Bangladesh,2008,12,EAEC,9.25,0
+Bangladesh,2009,1,EAEC,6.658333,2
+Bangladesh,2009,2,EAEC,10.51515,3.166667
+Bangladesh,2009,3,EAEC,6.333333,7.916667
+Bangladesh,2009,4,EAEC,20.33333,2.666667
+Bangladesh,2009,5,EAEC,8.982143,1
+Bangladesh,2009,6,EAEC,9.138889,0
+Bangladesh,2009,7,EAEC,4.522222,0
+Bangladesh,2009,8,EAEC,6.333333,1
+Bangladesh,2009,9,EAEC,4.4,0
+Bangladesh,2009,10,EAEC,3,2
+Bangladesh,2009,11,EAEC,6,1
+Bangladesh,2009,12,EAEC,4.5,1
+Bangladesh,2010,1,EAEC,7,0
+Bangladesh,2010,2,EAEC,3.25,0
+Bangladesh,2010,3,EAEC,8.5,2
+Bangladesh,2010,4,EAEC,13.40714,6.666667
+Bangladesh,2010,5,EAEC,13.10278,4.126984
+Bangladesh,2010,6,EAEC,6.154762,2.142857
+Bangladesh,2010,7,EAEC,15.3254,2.285714
+Bangladesh,2010,8,EAEC,7.166667,1.333333
+Bangladesh,2010,9,EAEC,4.4,0
+Bangladesh,2010,10,EAEC,7.1,1
+Bangladesh,2010,11,EAEC,2.285714,0
+Bangladesh,2010,12,EAEC,0,0
+Bangladesh,2007,12,Cryptosporidium,5.307692,1
+Bangladesh,2008,1,Cryptosporidium,4.125,0
+Bangladesh,2008,2,Cryptosporidium,0,0
+Bangladesh,2008,3,Cryptosporidium,1.157895,0
+Bangladesh,2008,4,Cryptosporidium,0,0
+Bangladesh,2008,5,Cryptosporidium,2.571429,1.0625
+Bangladesh,2008,6,Cryptosporidium,2.272727,0
+Bangladesh,2008,7,Cryptosporidium,0,1.142857
+Bangladesh,2008,8,Cryptosporidium,5.569444,0
+Bangladesh,2008,9,Cryptosporidium,1.666667,0
+Bangladesh,2008,10,Cryptosporidium,6.555556,5
+Bangladesh,2008,11,Cryptosporidium,3.153846,1
+Bangladesh,2008,12,Cryptosporidium,4.25,0
+Bangladesh,2009,1,Cryptosporidium,4.491667,0
+Bangladesh,2009,2,Cryptosporidium,8.69697,0
+Bangladesh,2009,3,Cryptosporidium,6.088889,3
+Bangladesh,2009,4,Cryptosporidium,0,1.111111
+Bangladesh,2009,5,Cryptosporidium,2.125,3
+Bangladesh,2009,6,Cryptosporidium,4,0
+Bangladesh,2009,7,Cryptosporidium,2.522222,1
+Bangladesh,2009,8,Cryptosporidium,1,0
+Bangladesh,2009,9,Cryptosporidium,2,0
+Bangladesh,2009,10,Cryptosporidium,1,0
+Bangladesh,2009,11,Cryptosporidium,2,0
+Bangladesh,2009,12,Cryptosporidium,0,0
+Bangladesh,2010,1,Cryptosporidium,2.125,0
+Bangladesh,2010,2,Cryptosporidium,0,0
+Bangladesh,2010,3,Cryptosporidium,1,0
+Bangladesh,2010,4,Cryptosporidium,6.128571,1.375
+Bangladesh,2010,5,Cryptosporidium,3.111111,1.555556
+Bangladesh,2010,6,Cryptosporidium,1,0
+Bangladesh,2010,7,Cryptosporidium,9.166667,0
+Bangladesh,2010,8,Cryptosporidium,0,0
+Bangladesh,2010,9,Cryptosporidium,0,0
+Bangladesh,2010,10,Cryptosporidium,2.333333,0
+Bangladesh,2010,11,Cryptosporidium,1.285714,0
+Bangladesh,2010,12,Cryptosporidium,0,0
+Bangladesh,2007,12,Rotavirus,5.794872,0
+Bangladesh,2008,1,Rotavirus,21.76111,1.666667
+Bangladesh,2008,2,Rotavirus,15.88182,0
+Bangladesh,2008,3,Rotavirus,12.4067,0
+Bangladesh,2008,4,Rotavirus,1.375,0
+Bangladesh,2008,5,Rotavirus,2.819444,1.0625
+Bangladesh,2008,6,Rotavirus,0,1.4
+Bangladesh,2008,7,Rotavirus,3.803571,1.142857
+Bangladesh,2008,8,Rotavirus,1,0
+Bangladesh,2008,9,Rotavirus,2.666667,0
+Bangladesh,2008,10,Rotavirus,10.42222,0
+Bangladesh,2008,11,Rotavirus,10.03269,0
+Bangladesh,2008,12,Rotavirus,12,0
+Bangladesh,2009,1,Rotavirus,11.4,0
+Bangladesh,2009,2,Rotavirus,17.79798,1
+Bangladesh,2009,3,Rotavirus,9.955556,5.25
+Bangladesh,2009,4,Rotavirus,7.111111,0
+Bangladesh,2009,5,Rotavirus,0,0
+Bangladesh,2009,6,Rotavirus,1,0
+Bangladesh,2009,7,Rotavirus,0,0
+Bangladesh,2009,8,Rotavirus,1.333333,0
+Bangladesh,2009,9,Rotavirus,0,0
+Bangladesh,2009,10,Rotavirus,2,3
+Bangladesh,2009,11,Rotavirus,7.416667,0
+Bangladesh,2009,12,Rotavirus,5.375,3.5
+Bangladesh,2010,1,Rotavirus,18.5,5
+Bangladesh,2010,2,Rotavirus,9.75,2.25
+Bangladesh,2010,3,Rotavirus,6,0
+Bangladesh,2010,4,Rotavirus,3.720238,1.375
+Bangladesh,2010,5,Rotavirus,3.833333,1.285714
+Bangladesh,2010,6,Rotavirus,3.111111,0
+Bangladesh,2010,7,Rotavirus,6,0
+Bangladesh,2010,8,Rotavirus,0,0
+Bangladesh,2010,9,Rotavirus,12.53333,0
+Bangladesh,2010,10,Rotavirus,7.366667,1
+Bangladesh,2010,11,Rotavirus,5.904762,0
+Bangladesh,2010,12,Rotavirus,0,0
+Bangladesh,2007,12,Norovirus GI,0,0
+Bangladesh,2008,1,Norovirus GI,0,0
+Bangladesh,2008,2,Norovirus GI,0,0
+Bangladesh,2008,3,Norovirus GI,1.090909,2.25
+Bangladesh,2008,4,Norovirus GI,5.736264,2.291209
+Bangladesh,2008,5,Norovirus GI,5.619048,0
+Bangladesh,2008,6,Norovirus GI,12.69318,2.8
+Bangladesh,2008,7,Norovirus GI,19.35714,1
+Bangladesh,2008,8,Norovirus GI,10.58333,0
+Bangladesh,2008,9,Norovirus GI,2.153846,1
+Bangladesh,2008,10,Norovirus GI,1,0
+Bangladesh,2008,11,Norovirus GI,0,3
+Bangladesh,2008,12,Norovirus GI,0,0
+Bangladesh,2009,1,Norovirus GI,0,0
+Bangladesh,2009,2,Norovirus GI,0,0
+Bangladesh,2009,3,Norovirus GI,0,0
+Bangladesh,2009,4,Norovirus GI,2.111111,0
+Bangladesh,2009,5,Norovirus GI,0,0
+Bangladesh,2009,6,Norovirus GI,0,0
+Bangladesh,2009,7,Norovirus GI,0,0
+Bangladesh,2009,8,Norovirus GI,0,0
+Bangladesh,2009,9,Norovirus GI,0,0
+Bangladesh,2009,10,Norovirus GI,0,1
+Bangladesh,2009,11,Norovirus GI,0,0
+Bangladesh,2009,12,Norovirus GI,0,0
+Bangladesh,2010,1,Norovirus GI,0,0
+Bangladesh,2010,2,Norovirus GI,0,0
+Bangladesh,2010,3,Norovirus GI,0,0
+Bangladesh,2010,4,Norovirus GI,0,0
+Bangladesh,2010,5,Norovirus GI,0,0
+Bangladesh,2010,6,Norovirus GI,0,0
+Bangladesh,2010,7,Norovirus GI,0,0
+Bangladesh,2010,8,Norovirus GI,0,1
+Bangladesh,2010,9,Norovirus GI,0,0
+Bangladesh,2010,10,Norovirus GI,0,0
+Bangladesh,2010,11,Norovirus GI,1,0
+Bangladesh,2010,12,Norovirus GI,0,0
+Bangladesh,2007,12,Norovirus GII,1.153846,0
+Bangladesh,2008,1,Norovirus GII,0,0
+Bangladesh,2008,2,Norovirus GII,0,0
+Bangladesh,2008,3,Norovirus GII,4.703349,1.076923
+Bangladesh,2008,4,Norovirus GII,0,5.642857
+Bangladesh,2008,5,Norovirus GII,0,2.0625
+Bangladesh,2008,6,Norovirus GII,2.372727,0
+Bangladesh,2008,7,Norovirus GII,2.541667,4.571429
+Bangladesh,2008,8,Norovirus GII,0,0
+Bangladesh,2008,9,Norovirus GII,0,0
+Bangladesh,2008,10,Norovirus GII,1.333333,1
+Bangladesh,2008,11,Norovirus GII,0,0
+Bangladesh,2008,12,Norovirus GII,0,0
+Bangladesh,2009,1,Norovirus GII,0,0
+Bangladesh,2009,2,Norovirus GII,1.222222,0
+Bangladesh,2009,3,Norovirus GII,0,0
+Bangladesh,2009,4,Norovirus GII,0,0
+Bangladesh,2009,5,Norovirus GII,0,0
+Bangladesh,2009,6,Norovirus GII,1.222222,0
+Bangladesh,2009,7,Norovirus GII,1.3,0
+Bangladesh,2009,8,Norovirus GII,0,0
+Bangladesh,2009,9,Norovirus GII,0,0
+Bangladesh,2009,10,Norovirus GII,0,0
+Bangladesh,2009,11,Norovirus GII,0,0
+Bangladesh,2009,12,Norovirus GII,0,0
+Bangladesh,2010,1,Norovirus GII,0,0
+Bangladesh,2010,2,Norovirus GII,0,0
+Bangladesh,2010,3,Norovirus GII,1,0
+Bangladesh,2010,4,Norovirus GII,2.25,0
+Bangladesh,2010,5,Norovirus GII,0,0
+Bangladesh,2010,6,Norovirus GII,1.25,1
+Bangladesh,2010,7,Norovirus GII,2.5,1.142857
+Bangladesh,2010,8,Norovirus GII,0,0
+Bangladesh,2010,9,Norovirus GII,3.458333,0
+Bangladesh,2010,10,Norovirus GII,0,1
+Bangladesh,2010,11,Norovirus GII,1,0
+Bangladesh,2010,12,Norovirus GII,0,1
+Bangladesh,2007,12,Adenovirus 40/41,0,1
+Bangladesh,2008,1,Adenovirus 40/41,0,0
+Bangladesh,2008,2,Adenovirus 40/41,0,0
+Bangladesh,2008,3,Adenovirus 40/41,1.090909,0
+Bangladesh,2008,4,Adenovirus 40/41,3.671703,1.214286
+Bangladesh,2008,5,Adenovirus 40/41,2.730159,0
+Bangladesh,2008,6,Adenovirus 40/41,1.428571,0
+Bangladesh,2008,7,Adenovirus 40/41,1,1
+Bangladesh,2008,8,Adenovirus 40/41,2.125,0
+Bangladesh,2008,9,Adenovirus 40/41,2.153846,0
+Bangladesh,2008,10,Adenovirus 40/41,0,0
+Bangladesh,2008,11,Adenovirus 40/41,0,0
+Bangladesh,2008,12,Adenovirus 40/41,0,0
+Bangladesh,2009,1,Adenovirus 40/41,0,0
+Bangladesh,2009,2,Adenovirus 40/41,0,0
+Bangladesh,2009,3,Adenovirus 40/41,0,1.125
+Bangladesh,2009,4,Adenovirus 40/41,2.944444,0
+Bangladesh,2009,5,Adenovirus 40/41,2.285714,0
+Bangladesh,2009,6,Adenovirus 40/41,1.222222,0
+Bangladesh,2009,7,Adenovirus 40/41,1.3,1
+Bangladesh,2009,8,Adenovirus 40/41,0,0
+Bangladesh,2009,9,Adenovirus 40/41,0,0
+Bangladesh,2009,10,Adenovirus 40/41,0,0
+Bangladesh,2009,11,Adenovirus 40/41,0,0
+Bangladesh,2009,12,Adenovirus 40/41,0,0
+Bangladesh,2010,1,Adenovirus 40/41,0,0
+Bangladesh,2010,2,Adenovirus 40/41,1.5,0
+Bangladesh,2010,3,Adenovirus 40/41,0,0
+Bangladesh,2010,4,Adenovirus 40/41,1,0
+Bangladesh,2010,5,Adenovirus 40/41,4,0
+Bangladesh,2010,6,Adenovirus 40/41,0,0
+Bangladesh,2010,7,Adenovirus 40/41,4.015873,0
+Bangladesh,2010,8,Adenovirus 40/41,0,0
+Bangladesh,2010,9,Adenovirus 40/41,2.4,0
+Bangladesh,2010,10,Adenovirus 40/41,1.6,0
+Bangladesh,2010,11,Adenovirus 40/41,1,0
+Bangladesh,2010,12,Adenovirus 40/41,0,0
+Pakistan,2008,3,all MSD,52.35714,29
+Pakistan,2008,4,all MSD,80.95455,18.5
+Pakistan,2008,5,all MSD,69.81652,14.75
+Pakistan,2008,6,all MSD,43.15751,10.75
+Pakistan,2008,7,all MSD,50.71429,16
+Pakistan,2008,8,all MSD,45,14
+Pakistan,2008,9,all MSD,37.8,11
+Pakistan,2008,10,all MSD,30.53333,6
+Pakistan,2008,11,all MSD,34.09524,6
+Pakistan,2008,12,all MSD,13.2381,2
+Pakistan,2009,1,all MSD,30.33333,9
+Pakistan,2009,2,all MSD,31,6
+Pakistan,2009,3,all MSD,27,2
+Pakistan,2009,4,all MSD,33.42857,5
+Pakistan,2009,5,all MSD,35.2381,9.4
+Pakistan,2009,6,all MSD,22.33333,11.6
+Pakistan,2009,7,all MSD,32.8,3
+Pakistan,2009,8,all MSD,40.2,9
+Pakistan,2009,9,all MSD,7,3
+Pakistan,2009,10,all MSD,23.42857,4
+Pakistan,2009,11,all MSD,23.57143,4
+Pakistan,2009,12,all MSD,19,7
+Pakistan,2010,1,all MSD,33,7
+Pakistan,2010,2,all MSD,42,8
+Pakistan,2010,3,all MSD,39.25,14
+Pakistan,2010,4,all MSD,29.75,10
+Pakistan,2010,5,all MSD,43,8
+Pakistan,2010,6,all MSD,37.22857,10
+Pakistan,2010,7,all MSD,28.77143,8
+Pakistan,2010,8,all MSD,26.66667,5
+Pakistan,2010,9,all MSD,33.33333,10
+Pakistan,2010,10,all MSD,23.4,10
+Pakistan,2010,11,all MSD,22.3,4
+Pakistan,2010,12,all MSD,33.3,8
+Pakistan,2011,1,all MSD,64,13
+Pakistan,2011,2,all MSD,51,15
+Pakistan,2011,3,all MSD,2,0
+Pakistan,2008,3,Aeromonas,10.31667,19.5
+Pakistan,2008,4,Aeromonas,21.21429,3
+Pakistan,2008,5,Aeromonas,10.98368,5.25
+Pakistan,2008,6,Aeromonas,5.995238,5.25
+Pakistan,2008,7,Aeromonas,12.71429,3.142857
+Pakistan,2008,8,Aeromonas,8.296703,3.7
+Pakistan,2008,9,Aeromonas,4.390476,4
+Pakistan,2008,10,Aeromonas,1.333333,0
+Pakistan,2008,11,Aeromonas,6.754762,0
+Pakistan,2008,12,Aeromonas,1,1
+Pakistan,2009,1,Aeromonas,6.125,4.666667
+Pakistan,2009,2,Aeromonas,5.2,3
+Pakistan,2009,3,Aeromonas,5.566667,2
+Pakistan,2009,4,Aeromonas,7.763636,1.5
+Pakistan,2009,5,Aeromonas,5.714286,3.4
+Pakistan,2009,6,Aeromonas,7.833333,2.45
+Pakistan,2009,7,Aeromonas,5.533333,0
+Pakistan,2009,8,Aeromonas,11.07143,2.5
+Pakistan,2009,9,Aeromonas,2,1.5
+Pakistan,2009,10,Aeromonas,5.25,2
+Pakistan,2009,11,Aeromonas,3,0
+Pakistan,2009,12,Aeromonas,4,4
+Pakistan,2010,1,Aeromonas,3.083333,2.4
+Pakistan,2010,2,Aeromonas,8.875,0
+Pakistan,2010,3,Aeromonas,9.910714,2.5
+Pakistan,2010,4,Aeromonas,6.696429,3
+Pakistan,2010,5,Aeromonas,3.090909,6
+Pakistan,2010,6,Aeromonas,8.442857,3
+Pakistan,2010,7,Aeromonas,3.1,1
+Pakistan,2010,8,Aeromonas,4.935714,1.666667
+Pakistan,2010,9,Aeromonas,5.622378,2.333333
+Pakistan,2010,10,Aeromonas,2,3.75
+Pakistan,2010,11,Aeromonas,5.2,2
+Pakistan,2010,12,Aeromonas,10.75,2
+Pakistan,2011,1,Aeromonas,14.05397,7.666667
+Pakistan,2011,2,Aeromonas,9.705628,7.6
+Pakistan,2011,3,Aeromonas,0,0
+Pakistan,2008,3,C coli or jejuni,10.53333,7.375
+Pakistan,2008,4,C coli or jejuni,18.71681,0
+Pakistan,2008,5,C coli or jejuni,13.00444,7.333333
+Pakistan,2008,6,C coli or jejuni,7.948718,2.25
+Pakistan,2008,7,C coli or jejuni,17.92857,4.142857
+Pakistan,2008,8,C coli or jejuni,9.373626,3
+Pakistan,2008,9,C coli or jejuni,10.29524,2.5
+Pakistan,2008,10,C coli or jejuni,4.233333,0
+Pakistan,2008,11,C coli or jejuni,1.25,0
+Pakistan,2008,12,C coli or jejuni,2,1
+Pakistan,2009,1,C coli or jejuni,6.125,3
+Pakistan,2009,2,C coli or jejuni,9.4,1
+Pakistan,2009,3,C coli or jejuni,2.366667,1
+Pakistan,2009,4,C coli or jejuni,3.290909,1.5
+Pakistan,2009,5,C coli or jejuni,11.77381,4.8
+Pakistan,2009,6,C coli or jejuni,3.833333,2.7
+Pakistan,2009,7,C coli or jejuni,8.433333,1
+Pakistan,2009,8,C coli or jejuni,6.842857,4.5
+Pakistan,2009,9,C coli or jejuni,1,1.5
+Pakistan,2009,10,C coli or jejuni,2.410714,0
+Pakistan,2009,11,C coli or jejuni,4,1.5
+Pakistan,2009,12,C coli or jejuni,2,1
+Pakistan,2010,1,C coli or jejuni,14.66667,3.4
+Pakistan,2010,2,C coli or jejuni,7.125,4.5
+Pakistan,2010,3,C coli or jejuni,7.910714,1.166667
+Pakistan,2010,4,C coli or jejuni,3.410714,4
+Pakistan,2010,5,C coli or jejuni,10.67626,1
+Pakistan,2010,6,C coli or jejuni,10.24286,3
+Pakistan,2010,7,C coli or jejuni,9.6,1.2
+Pakistan,2010,8,C coli or jejuni,6.971429,1.666667
+Pakistan,2010,9,C coli or jejuni,8.986014,4.666667
+Pakistan,2010,10,C coli or jejuni,7.466667,8
+Pakistan,2010,11,C coli or jejuni,5.9,2
+Pakistan,2010,12,C coli or jejuni,7.75,4
+Pakistan,2011,1,C coli or jejuni,15.24127,5.333333
+Pakistan,2011,2,C coli or jejuni,17.10967,5.8
+Pakistan,2011,3,C coli or jejuni,1,0
+Pakistan,2008,3,Shigella,14.96667,5.375
+Pakistan,2008,4,Shigella,7.678571,3
+Pakistan,2008,5,Shigella,7.871795,3
+Pakistan,2008,6,Shigella,1.066667,0
+Pakistan,2008,7,Shigella,6.5,0
+Pakistan,2008,8,Shigella,1,0
+Pakistan,2008,9,Shigella,4.2,1.5
+Pakistan,2008,10,Shigella,1.333333,0
+Pakistan,2008,11,Shigella,1.3,0
+Pakistan,2008,12,Shigella,0,0
+Pakistan,2009,1,Shigella,4.25,2.333333
+Pakistan,2009,2,Shigella,3.1,0
+Pakistan,2009,3,Shigella,2.2,0
+Pakistan,2009,4,Shigella,2.290909,0
+Pakistan,2009,5,Shigella,0,0
+Pakistan,2009,6,Shigella,0,0
+Pakistan,2009,7,Shigella,1.333333,0
+Pakistan,2009,8,Shigella,1.142857,1.5
+Pakistan,2009,9,Shigella,0,0
+Pakistan,2009,10,Shigella,3,2
+Pakistan,2009,11,Shigella,4.285714,1.5
+Pakistan,2009,12,Shigella,1,3
+Pakistan,2010,1,Shigella,2,0
+Pakistan,2010,2,Shigella,1.375,0
+Pakistan,2010,3,Shigella,7.071429,1.333333
+Pakistan,2010,4,Shigella,5.25,3.5
+Pakistan,2010,5,Shigella,2,2
+Pakistan,2010,6,Shigella,6.342857,0
+Pakistan,2010,7,Shigella,1.1,0
+Pakistan,2010,8,Shigella,5.035714,1.666667
+Pakistan,2010,9,Shigella,4.545455,1
+Pakistan,2010,10,Shigella,3.133333,0
+Pakistan,2010,11,Shigella,0,1
+Pakistan,2010,12,Shigella,6.5,0
+Pakistan,2011,1,Shigella,3.6,0
+Pakistan,2011,2,Shigella,7.238095,3.2
+Pakistan,2011,3,Shigella,0,0
+Pakistan,2008,3,V cholerae,2.6,0
+Pakistan,2008,4,V cholerae,3,0
+Pakistan,2008,5,V cholerae,7.004662,4.166667
+Pakistan,2008,6,V cholerae,9.296825,3.25
+Pakistan,2008,7,V cholerae,5.571429,4.714286
+Pakistan,2008,8,V cholerae,8.659341,5.9
+Pakistan,2008,9,V cholerae,4.590476,4
+Pakistan,2008,10,V cholerae,1,6
+Pakistan,2008,11,V cholerae,3.071429,0
+Pakistan,2008,12,V cholerae,0,0
+Pakistan,2009,1,V cholerae,0,0
+Pakistan,2009,2,V cholerae,3.2,3
+Pakistan,2009,3,V cholerae,1.2,0
+Pakistan,2009,4,V cholerae,6.381818,2.5
+Pakistan,2009,5,V cholerae,3.535714,3.4
+Pakistan,2009,6,V cholerae,0,2.75
+Pakistan,2009,7,V cholerae,2.666667,0
+Pakistan,2009,8,V cholerae,1.25,0
+Pakistan,2009,9,V cholerae,1,0
+Pakistan,2009,10,V cholerae,1,0
+Pakistan,2009,11,V cholerae,0,0
+Pakistan,2009,12,V cholerae,1,0
+Pakistan,2010,1,V cholerae,0,0
+Pakistan,2010,2,V cholerae,0,0
+Pakistan,2010,3,V cholerae,0,0
+Pakistan,2010,4,V cholerae,0,4
+Pakistan,2010,5,V cholerae,0,0
+Pakistan,2010,6,V cholerae,3.571429,3
+Pakistan,2010,7,V cholerae,0,2.2
+Pakistan,2010,8,V cholerae,2.45,0
+Pakistan,2010,9,V cholerae,4.69697,0
+Pakistan,2010,10,V cholerae,3.666667,1.25
+Pakistan,2010,11,V cholerae,0,1
+Pakistan,2010,12,V cholerae,0,0
+Pakistan,2011,1,V cholerae,2.142857,0
+Pakistan,2011,2,V cholerae,2.467532,1.4
+Pakistan,2011,3,V cholerae,0,0
+Pakistan,2008,3,ETEC ST,1.416667,3.375
+Pakistan,2008,4,ETEC ST,11.42713,0
+Pakistan,2008,5,ETEC ST,4.418581,2
+Pakistan,2008,6,ETEC ST,3.818803,1
+Pakistan,2008,7,ETEC ST,7.857143,1.571429
+Pakistan,2008,8,ETEC ST,2.076923,0
+Pakistan,2008,9,ETEC ST,0,0
+Pakistan,2008,10,ETEC ST,5.566667,2
+Pakistan,2008,11,ETEC ST,1.3,0
+Pakistan,2008,12,ETEC ST,0,0
+Pakistan,2009,1,ETEC ST,3.5,0
+Pakistan,2009,2,ETEC ST,4.1,0
+Pakistan,2009,3,ETEC ST,3.4,0
+Pakistan,2009,4,ETEC ST,5.672727,0
+Pakistan,2009,5,ETEC ST,5.821429,0
+Pakistan,2009,6,ETEC ST,1.166667,0
+Pakistan,2009,7,ETEC ST,3.7,0
+Pakistan,2009,8,ETEC ST,4.428571,1.5
+Pakistan,2009,9,ETEC ST,1,0
+Pakistan,2009,10,ETEC ST,1.285714,1
+Pakistan,2009,11,ETEC ST,0,0
+Pakistan,2009,12,ETEC ST,1,0
+Pakistan,2010,1,ETEC ST,4.166667,0
+Pakistan,2010,2,ETEC ST,2.375,1
+Pakistan,2010,3,ETEC ST,2.285714,3.666667
+Pakistan,2010,4,ETEC ST,4.535714,2
+Pakistan,2010,5,ETEC ST,4.844444,0
+Pakistan,2010,6,ETEC ST,5.771429,3
+Pakistan,2010,7,ETEC ST,5,1.2
+Pakistan,2010,8,ETEC ST,1.285714,0
+Pakistan,2010,9,ETEC ST,1,2.333333
+Pakistan,2010,10,ETEC ST,2,0
+Pakistan,2010,11,ETEC ST,2.9,0
+Pakistan,2010,12,ETEC ST,2.1,3
+Pakistan,2011,1,ETEC ST,1.6,0
+Pakistan,2011,2,ETEC ST,1.555556,0
+Pakistan,2011,3,ETEC ST,0,0
+Pakistan,2008,3,tEPEC,7.233333,3.375
+Pakistan,2008,4,tEPEC,18.8373,4.333333
+Pakistan,2008,5,tEPEC,5.748252,2.166667
+Pakistan,2008,6,tEPEC,3.785714,0
+Pakistan,2008,7,tEPEC,2.142857,0
+Pakistan,2008,8,tEPEC,3.153846,1.5
+Pakistan,2008,9,tEPEC,8.533333,1
+Pakistan,2008,10,tEPEC,1.333333,0
+Pakistan,2008,11,tEPEC,2.583333,0
+Pakistan,2008,12,tEPEC,0,0
+Pakistan,2009,1,tEPEC,1.375,1
+Pakistan,2009,2,tEPEC,1,1
+Pakistan,2009,3,tEPEC,1.2,0
+Pakistan,2009,4,tEPEC,3.285714,0
+Pakistan,2009,5,tEPEC,2.285714,0
+Pakistan,2009,6,tEPEC,2.666667,0
+Pakistan,2009,7,tEPEC,1.333333,0
+Pakistan,2009,8,tEPEC,2,1
+Pakistan,2009,9,tEPEC,0,0
+Pakistan,2009,10,tEPEC,0,0
+Pakistan,2009,11,tEPEC,1,0
+Pakistan,2009,12,tEPEC,1,0
+Pakistan,2010,1,tEPEC,3.166667,0
+Pakistan,2010,2,tEPEC,3.375,0
+Pakistan,2010,3,tEPEC,4.910714,1.333333
+Pakistan,2010,4,tEPEC,1,0
+Pakistan,2010,5,tEPEC,2,0
+Pakistan,2010,6,tEPEC,2,0
+Pakistan,2010,7,tEPEC,3,0
+Pakistan,2010,8,tEPEC,1.285714,0
+Pakistan,2010,9,tEPEC,3.335664,0
+Pakistan,2010,10,tEPEC,2.333333,1.25
+Pakistan,2010,11,tEPEC,2.9,0
+Pakistan,2010,12,tEPEC,1.25,0
+Pakistan,2011,1,tEPEC,3.742857,0
+Pakistan,2011,2,tEPEC,2.363636,0
+Pakistan,2011,3,tEPEC,0,0
+Pakistan,2008,3,EAEC,17.08333,1.375
+Pakistan,2008,4,EAEC,20.15873,0
+Pakistan,2008,5,EAEC,19.42713,2.25
+Pakistan,2008,6,EAEC,10.50293,0
+Pakistan,2008,7,EAEC,11.21429,1
+Pakistan,2008,8,EAEC,9.296703,0
+Pakistan,2008,9,EAEC,10.05714,3.5
+Pakistan,2008,10,EAEC,8.066667,0
+Pakistan,2008,11,EAEC,9.404762,0
+Pakistan,2008,12,EAEC,3,0
+Pakistan,2009,1,EAEC,4.5,0
+Pakistan,2009,2,EAEC,6.2,1
+Pakistan,2009,3,EAEC,4.6,0
+Pakistan,2009,4,EAEC,8.815584,1.5
+Pakistan,2009,5,EAEC,10.54762,1.2
+Pakistan,2009,6,EAEC,7.666667,0
+Pakistan,2009,7,EAEC,2.366667,0
+Pakistan,2009,8,EAEC,2.285714,0
+Pakistan,2009,9,EAEC,1,0
+Pakistan,2009,10,EAEC,8.785714,0
+Pakistan,2009,11,EAEC,2.285714,1
+Pakistan,2009,12,EAEC,5,0
+Pakistan,2010,1,EAEC,6.083333,0
+Pakistan,2010,2,EAEC,7.125,2.75
+Pakistan,2010,3,EAEC,10.82143,2.666667
+Pakistan,2010,4,EAEC,4.285714,0
+Pakistan,2010,5,EAEC,3.622222,1.666667
+Pakistan,2010,6,EAEC,1,0
+Pakistan,2010,7,EAEC,6,0
+Pakistan,2010,8,EAEC,8.771429,0
+Pakistan,2010,9,EAEC,5.307692,0
+Pakistan,2010,10,EAEC,1,0
+Pakistan,2010,11,EAEC,7.2,0
+Pakistan,2010,12,EAEC,7,2
+Pakistan,2011,1,EAEC,10.44127,3
+Pakistan,2011,2,EAEC,16.2583,1.6
+Pakistan,2011,3,EAEC,0,0
+Pakistan,2008,3,Cryptosporidium,1.5,0
+Pakistan,2008,4,Cryptosporidium,11.47078,3
+Pakistan,2008,5,Cryptosporidium,7.226662,3.166667
+Pakistan,2008,6,Cryptosporidium,10.37118,2.25
+Pakistan,2008,7,Cryptosporidium,3.5,1
+Pakistan,2008,8,Cryptosporidium,7.230769,2.2
+Pakistan,2008,9,Cryptosporidium,8.914286,0
+Pakistan,2008,10,Cryptosporidium,1.4,0
+Pakistan,2008,11,Cryptosporidium,1.3,0
+Pakistan,2008,12,Cryptosporidium,0,0
+Pakistan,2009,1,Cryptosporidium,2.75,0
+Pakistan,2009,2,Cryptosporidium,5,0
+Pakistan,2009,3,Cryptosporidium,2.3,0
+Pakistan,2009,4,Cryptosporidium,4.576623,0
+Pakistan,2009,5,Cryptosporidium,3.452381,1.2
+Pakistan,2009,6,Cryptosporidium,7,0
+Pakistan,2009,7,Cryptosporidium,3.533333,0
+Pakistan,2009,8,Cryptosporidium,6.285714,0
+Pakistan,2009,9,Cryptosporidium,0,0
+Pakistan,2009,10,Cryptosporidium,7.660714,0
+Pakistan,2009,11,Cryptosporidium,0,0
+Pakistan,2009,12,Cryptosporidium,0,0
+Pakistan,2010,1,Cryptosporidium,2,0
+Pakistan,2010,2,Cryptosporidium,3.75,0
+Pakistan,2010,3,Cryptosporidium,2.25,0
+Pakistan,2010,4,Cryptosporidium,1.285714,1.5
+Pakistan,2010,5,Cryptosporidium,2.313131,0
+Pakistan,2010,6,Cryptosporidium,4.1,0
+Pakistan,2010,7,Cryptosporidium,0,1.2
+Pakistan,2010,8,Cryptosporidium,3.533333,0
+Pakistan,2010,9,Cryptosporidium,11.9021,1
+Pakistan,2010,10,Cryptosporidium,4.333333,1
+Pakistan,2010,11,Cryptosporidium,2,0
+Pakistan,2010,12,Cryptosporidium,4.25,1
+Pakistan,2011,1,Cryptosporidium,21.7619,0
+Pakistan,2011,2,Cryptosporidium,13.52092,0
+Pakistan,2011,3,Cryptosporidium,2,0
+Pakistan,2008,3,Rotavirus,18.01667,1.375
+Pakistan,2008,4,Rotavirus,10.67172,6
+Pakistan,2008,5,Rotavirus,11.13675,2.166667
+Pakistan,2008,6,Rotavirus,6.704762,0
+Pakistan,2008,7,Rotavirus,12.64286,1
+Pakistan,2008,8,Rotavirus,10.2967,0
+Pakistan,2008,9,Rotavirus,5.590476,0
+Pakistan,2008,10,Rotavirus,7.666667,0
+Pakistan,2008,11,Rotavirus,15.48571,2
+Pakistan,2008,12,Rotavirus,7.571429,0
+Pakistan,2009,1,Rotavirus,2.458333,1
+Pakistan,2009,2,Rotavirus,6.3,1
+Pakistan,2009,3,Rotavirus,2.366667,0
+Pakistan,2009,4,Rotavirus,4.181818,0
+Pakistan,2009,5,Rotavirus,10.41667,0
+Pakistan,2009,6,Rotavirus,1.166667,0
+Pakistan,2009,7,Rotavirus,8.333333,0
+Pakistan,2009,8,Rotavirus,7.571429,0
+Pakistan,2009,9,Rotavirus,1,0
+Pakistan,2009,10,Rotavirus,6.267857,0
+Pakistan,2009,11,Rotavirus,13.28571,0
+Pakistan,2009,12,Rotavirus,7,0
+Pakistan,2010,1,Rotavirus,6.25,0
+Pakistan,2010,2,Rotavirus,9.875,0
+Pakistan,2010,3,Rotavirus,3.25,2.833333
+Pakistan,2010,4,Rotavirus,1,0
+Pakistan,2010,5,Rotavirus,2.490909,0
+Pakistan,2010,6,Rotavirus,10.34286,0
+Pakistan,2010,7,Rotavirus,4,0
+Pakistan,2010,8,Rotavirus,11.05952,0
+Pakistan,2010,9,Rotavirus,3.335664,0
+Pakistan,2010,10,Rotavirus,7.8,0
+Pakistan,2010,11,Rotavirus,11.1,0
+Pakistan,2010,12,Rotavirus,8.85,1
+Pakistan,2011,1,Rotavirus,6.298413,0
+Pakistan,2011,2,Rotavirus,5.848485,0
+Pakistan,2011,3,Rotavirus,0,0
+Pakistan,2008,3,Norovirus GI,0,0
+Pakistan,2008,4,Norovirus GI,4.165224,5.166667
+Pakistan,2008,5,Norovirus GI,5.885004,2.25
+Pakistan,2008,6,Norovirus GI,5.561905,0
+Pakistan,2008,7,Norovirus GI,3.214286,1
+Pakistan,2008,8,Norovirus GI,2,0
+Pakistan,2008,9,Norovirus GI,1.857143,2.5
+Pakistan,2008,10,Norovirus GI,5.566667,0
+Pakistan,2008,11,Norovirus GI,4.204762,0
+Pakistan,2008,12,Norovirus GI,0,0
+Pakistan,2009,1,Norovirus GI,1.375,0
+Pakistan,2009,2,Norovirus GI,0,0
+Pakistan,2009,3,Norovirus GI,1,0
+Pakistan,2009,4,Norovirus GI,3.290909,0
+Pakistan,2009,5,Norovirus GI,2.285714,0
+Pakistan,2009,6,Norovirus GI,1.166667,0
+Pakistan,2009,7,Norovirus GI,1,0
+Pakistan,2009,8,Norovirus GI,3.142857,0
+Pakistan,2009,9,Norovirus GI,0,0
+Pakistan,2009,10,Norovirus GI,0,0
+Pakistan,2009,11,Norovirus GI,5,0
+Pakistan,2009,12,Norovirus GI,0,1
+Pakistan,2010,1,Norovirus GI,1.083333,1.2
+Pakistan,2010,2,Norovirus GI,2,0
+Pakistan,2010,3,Norovirus GI,2.285714,2.5
+Pakistan,2010,4,Norovirus GI,2,0
+Pakistan,2010,5,Norovirus GI,3.25,0
+Pakistan,2010,6,Norovirus GI,5.1,0
+Pakistan,2010,7,Norovirus GI,2.5,0
+Pakistan,2010,8,Norovirus GI,0,0
+Pakistan,2010,9,Norovirus GI,2.333333,0
+Pakistan,2010,10,Norovirus GI,2.333333,1
+Pakistan,2010,11,Norovirus GI,2.1,0
+Pakistan,2010,12,Norovirus GI,1,0
+Pakistan,2011,1,Norovirus GI,0,0
+Pakistan,2011,2,Norovirus GI,1.555556,0
+Pakistan,2011,3,Norovirus GI,0,0
+Pakistan,2008,3,Norovirus GII,0,0
+Pakistan,2008,4,Norovirus GII,12.3676,0
+Pakistan,2008,5,Norovirus GII,9.154623,0
+Pakistan,2008,6,Norovirus GII,1.307692,0
+Pakistan,2008,7,Norovirus GII,1,1
+Pakistan,2008,8,Norovirus GII,2.153846,0
+Pakistan,2008,9,Norovirus GII,1.2,1
+Pakistan,2008,10,Norovirus GII,2.4,2
+Pakistan,2008,11,Norovirus GII,5.442857,2
+Pakistan,2008,12,Norovirus GII,1.333333,0
+Pakistan,2009,1,Norovirus GII,0,1
+Pakistan,2009,2,Norovirus GII,0,0
+Pakistan,2009,3,Norovirus GII,1,0
+Pakistan,2009,4,Norovirus GII,0,0
+Pakistan,2009,5,Norovirus GII,1.25,0
+Pakistan,2009,6,Norovirus GII,1.166667,0
+Pakistan,2009,7,Norovirus GII,3.533333,1
+Pakistan,2009,8,Norovirus GII,5.785714,4
+Pakistan,2009,9,Norovirus GII,0,0
+Pakistan,2009,10,Norovirus GII,1,0
+Pakistan,2009,11,Norovirus GII,2,1.5
+Pakistan,2009,12,Norovirus GII,2,0
+Pakistan,2010,1,Norovirus GII,4.166667,1.2
+Pakistan,2010,2,Norovirus GII,2,1.75
+Pakistan,2010,3,Norovirus GII,3.285714,0
+Pakistan,2010,4,Norovirus GII,3,4
+Pakistan,2010,5,Norovirus GII,4.313131,1.666667
+Pakistan,2010,6,Norovirus GII,4.671429,0
+Pakistan,2010,7,Norovirus GII,1,1
+Pakistan,2010,8,Norovirus GII,0,1.666667
+Pakistan,2010,9,Norovirus GII,3.335664,0
+Pakistan,2010,10,Norovirus GII,6.466667,0
+Pakistan,2010,11,Norovirus GII,0,1
+Pakistan,2010,12,Norovirus GII,6.75,2
+Pakistan,2011,1,Norovirus GII,4.285714,0
+Pakistan,2011,2,Norovirus GII,4.292929,1.6
+Pakistan,2011,3,Norovirus GII,0,0
+Pakistan,2008,3,Adenovirus 40/41,3.216667,0
+Pakistan,2008,4,Adenovirus 40/41,2.780303,0
+Pakistan,2008,5,Adenovirus 40/41,1.307692,0
+Pakistan,2008,6,Adenovirus 40/41,0,0
+Pakistan,2008,7,Adenovirus 40/41,1.142857,0
+Pakistan,2008,8,Adenovirus 40/41,1,0
+Pakistan,2008,9,Adenovirus 40/41,2.533333,0
+Pakistan,2008,10,Adenovirus 40/41,0,0
+Pakistan,2008,11,Adenovirus 40/41,0,0
+Pakistan,2008,12,Adenovirus 40/41,0,0
+Pakistan,2009,1,Adenovirus 40/41,0,0
+Pakistan,2009,2,Adenovirus 40/41,1.1,0
+Pakistan,2009,3,Adenovirus 40/41,1,0
+Pakistan,2009,4,Adenovirus 40/41,1.090909,0
+Pakistan,2009,5,Adenovirus 40/41,2.5,0
+Pakistan,2009,6,Adenovirus 40/41,0,0
+Pakistan,2009,7,Adenovirus 40/41,1,0
+Pakistan,2009,8,Adenovirus 40/41,2.285714,0
+Pakistan,2009,9,Adenovirus 40/41,0,0
+Pakistan,2009,10,Adenovirus 40/41,1.125,0
+Pakistan,2009,11,Adenovirus 40/41,0,0
+Pakistan,2009,12,Adenovirus 40/41,0,0
+Pakistan,2010,1,Adenovirus 40/41,2.083333,0
+Pakistan,2010,2,Adenovirus 40/41,0,0
+Pakistan,2010,3,Adenovirus 40/41,0,1.166667
+Pakistan,2010,4,Adenovirus 40/41,0,0
+Pakistan,2010,5,Adenovirus 40/41,1.222222,0
+Pakistan,2010,6,Adenovirus 40/41,1,0
+Pakistan,2010,7,Adenovirus 40/41,0,0
+Pakistan,2010,8,Adenovirus 40/41,0,0
+Pakistan,2010,9,Adenovirus 40/41,1.076923,0
+Pakistan,2010,10,Adenovirus 40/41,0,0
+Pakistan,2010,11,Adenovirus 40/41,0,0
+Pakistan,2010,12,Adenovirus 40/41,2.25,1
+Pakistan,2011,1,Adenovirus 40/41,0,0
+Pakistan,2011,2,Adenovirus 40/41,1.555556,0
+Pakistan,2011,3,Adenovirus 40/41,0,0
